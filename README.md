@@ -35,11 +35,14 @@ To edit this mod, we must make use of programs other than the mod, and Crusaderk
 Photoshop, I use photoshop CS6, if you are student you may have a student's copy connected to your school e-mail. If not, you can purchase it here: https://www.adobe.com/creativecloud/plans.html?single_app=photoshop&promoid=695P7SPW&mv=other
 Though, if you don't have access to a copy, I would recommend you find some other software, as I would personally never willingly support corporate Adobe monetarily :D.
 
-Excel, since I am a student I have access to Office 365, chances are if you are a student are a company that needs a lot of IT services you have access to this too. I am simply not going to link a way to purchase Excel as I also have moral qualms about giving than the bare minimum financial support to Microsoft. In any case you can also use OpenOffice
+        Nvidia's DDS file plugin for Photoshop: https://developer.nvidia.com/nvidia-texture-tools-adobe-photoshop#downloads
+            I assume there are ways to generate .DDS files on other programs, but you have to do your own research on that :) .
 
+Excel, since I am a student I have access to Office 365, chances are if you are a student or work for a company that needs a lot of IT services you have access to this too. I am simply not going to link a way to purchase Excel as I also have moral qualms about giving more than the bare minimum financial support to Microsoft. In any case you can also use OpenOffice Calc, though I think you need to download the entirety of OpenOffice to get to that point (So it's not unlike Microsoft Office).
 
+#Map Filler Tool
 
-I am currently using his 'map filler tool'. You can download it here: https://forum.paradoxplaza.com/forum/index.php?threads/tutorial-tool-how-to-fill-a-custom-map.697082/
+I am currently using JonStryker's 'map filler tool'. You can download it here: https://forum.paradoxplaza.com/forum/index.php?threads/tutorial-tool-how-to-fill-a-custom-map.697082/
 
 In this map filler tools titled CK2Tools-v20, you need to have Java 7 installed, but I found that the latest version of Java worked just fine.
 You can download that here: https://java.com/en/download/
