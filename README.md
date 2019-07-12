@@ -55,7 +55,8 @@ I don't have a very good knowledge on how to make .DDS files, but you can downlo
 
 I am currently using JonStryker's 'map filler tool'. You can download it here: https://forum.paradoxplaza.com/forum/index.php?threads/tutorial-tool-how-to-fill-a-custom-map.697082/
 
-In this map filler tools titled CK2Tools-v20, you need to have Java 7 installed, but I found that the latest version of Java worked just fine.
+To use CK2Tools-v20, you need to have Java 7 installed, but I found that the latest version of Java will work just as fine.
+
 You can download that here: https://java.com/en/download/
 
 One of the files in CK2Tools-v20 is called 'config.properties' if you open this in a text based editor, you need to change the moddirectory to CK2 mod folder, that is, in line one you should have written: moddirectory=C:\\Users\\me\\Documents\\Paradox Interactive\\Crusader Kings II\\mod\\WorldOfGielinor
