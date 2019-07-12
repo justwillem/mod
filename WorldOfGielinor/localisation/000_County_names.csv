@@ -1,0 +1,167 @@
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+c_bank_and_chapel;Bank and Chapel;Bank and Chapel;Bank and Chapel;;Bank and Chapel;;;;;;;;;x
+c_bank_and_chapel_adj;Bankian;;Bank and Chapeler;;;;;;;;;;;x
+c_barbarian_passageway;Barbarian Passageway;Barbarian Passageway;Barbarian Passageway;;Barbarian Passageway;;;;;;;;;x
+c_barbarian_passageway_adj;Barbarian Passagewaian;;Barbarian Passagewaer;;;;;;;;;;;x
+c_barbarian_path;Barbarian Path;Barbarian Path;Barbarian Path;;Barbarian Path;;;;;;;;;x
+c_barbarian_path_adj;Barbarian Pathian;;Barbarian Pather;;;;;;;;;;;x
+c_barbarian_square;Barbarian Square;Barbarian Square;Barbarian Square;;Barbarian Square;;;;;;;;;x
+c_barbarian_square_adj;Barbarian Squarean;;Barbarian Squarer;;;;;;;;;;;x
+c_champions_guild;Champions' Guild;Champions' Guild;Champions' Guild;;Champions' Guild;;;;;;;;;x
+c_champions_guild_adj;Champions' Guildian;;Champions' Guilder;;;;;;;;;;;x
+c_champions_guild_path;Champions' Guild Path;Champions' Guild Path;Champions' Guild Path;;Champions' Guild Path;;;;;;;;;x
+c_champions_guild_path_adj;Champions' Guild Pathian;;Champions' Guild Pather;;;;;;;;;;;x
+c_cooking_guild;Cooking Guild;Cooking Guild;Cooking Guild;;Cooking Guild;;;;;;;;;x
+c_cooking_guild_adj;Cooking Guildian;;Cooking Guilder;;;;;;;;;;;x
+c_deadwoods;Deadwoods;Deadwoods;Deadwoods;;Deadwoods;;;;;;;;;x
+c_deadwoods_adj;Deadwoodsian;;deadwoodser;;;;;;;;;;;x
+c_draynor_cross;Draynor Cross;Draynor Cross;Draynor Cross;;Draynor Cross;;;;;;;;;x
+c_draynor_cross_adj;Draynor Crossian;;Draynor Crosser;;;;;;;;;;;x
+c_draynor_cross_deadwoods;Draynor Cross Deadwoods;Draynor Cross Deadwoods;Draynor Cross Deadwoods;;Draynor Cross Deadwoods;;;;;;;;;x
+c_draynor_cross_deadwoods_adj;Draynor Cross Deadwoodsian;;Draynor Cross Deadwoodser;;;;;;;;;;;x
+c_draynor_field;Draynor Field;Draynor Field;Draynor Field;;Draynor Field;;;;;;;;;x
+c_draynor_field_adj;Draynor Fieldian;;Draynor Fielder;;;;;;;;;;;x
+c_draynor_jail;Draynor Jail;Draynor Jail;Draynor Jail;;Draynor Jail;;;;;;;;;x
+c_draynor_jail_adj;Draynor Jailian;;Draynor Jailer;;;;;;;;;;;x
+c_draynor_manor;Draynor Manor;Draynor Manor;Draynor Manor;;Draynor Manor;;;;;;;;;x
+c_draynor_manor_adj;Draynor Manorian;;Draynor Manorer;;;;;;;;;;;x
+c_east_edgeville;East Edgeville;East Edgeville;East Edgeville;;East Edgeville;;;;;;;;;x
+c_east_edgeville_adj;East Edgevillean;;East Edgeviller;;;;;;;;;;;x
+c_east_grand_exchange;East Grand Exchange;East Grand Exchange;East Grand Exchange;;East Grand Exchange;;;;;;;;;x
+c_east_grand_exchange_adj;East Grand Exchangean;;East Grand Exchanger;;;;;;;;;;;x
+c_east_varrock_bank;East Varrock Bank;East Varrock Bank;East Varrock Bank;;East Varrock Bank;;;;;;;;;x
+c_east_varrock_bank_adj;East Varrock Bankian;;East Varrock Banker;;;;;;;;;;;x
+c_east_varrock_lum_plains;East Varrock Lum Plains;East Varrock Lum Plains;East Varrock Lum Plains;;East Varrock Lum Plains;;;;;;;;;x
+c_east_varrock_lum_plains_adj;East Varrock Lum Plainsian;;East Varrock Lum Plainser;;;;;;;;;;;x
+c_east_varrock_path;East Varrock Path;East Varrock Path;East Varrock Path;;East Varrock Path;;;;;;;;;x
+c_east_varrock_path_adj;East Varrock Pathian;;East Varrock Pather;;;;;;;;;;;x
+c_east_varrock_teastall;East Varrock Teastall;East Varrock Teastall;East Varrock Teastall;;East Varrock Teastall;;;;;;;;;x
+c_east_varrock_teastall_adj;East Varrock Teastallian;;East Varrock Teastaller;;;;;;;;;;;x
+c_east_varrock_temple;East Varrock Temple;East Varrock Temple;East Varrock Temple;;East Varrock Temple;;;;;;;;;x
+c_east_varrock_temple_adj;East Varrock Templean;;East Varrock Templer;;;;;;;;;;;x
+c_edgeville;Edgeville;Edgeville;Edgeville;;Edgeville;;;;;;;;;x
+c_edgeville_adj;Edgevillean;;edgeviller;;;;;;;;;;;x
+c_edgeville_ditch;Edgeville Ditch;Edgeville Ditch;Edgeville Ditch;;Edgeville Ditch;;;;;;;;;x
+c_edgeville_ditch_adj;Edgeville Ditchian;;Edgeville Ditcher;;;;;;;;;;;x
+c_gertrudes_house;Gertrude's House;Gertrude's House;Gertrude's House;;Gertrude's House;;;;;;;;;x
+c_gertrudes_house_adj;Gertrudes Housean;;Gertrude's Houser;;;;;;;;;;;x
+c_goblin_ghetto;Goblin Ghetto;Goblin Ghetto;Goblin Ghetto;;Goblin Ghetto;;;;;;;;;x
+c_goblin_ghetto_adj;Goblin Ghettian;;Goblin Ghetter;;;;;;;;;;;x
+c_grand_exchange_ditch;Grand Exchange Ditch;Grand Exchange Ditch;Grand Exchange Ditch;;Grand Exchange Ditch;;;;;;;;;x
+c_grand_exchange_ditch_adj;Grand Exchange Ditchian;;Grand Exchange Ditcher;;;;;;;;;;;x
+c_grand_exchange_pathway;Grand Exchange Pathway;Grand Exchange Pathway;Grand Exchange Pathway;;Grand Exchange Pathway;;;;;;;;;x
+c_grand_exchange_pathway_adj;Grand Exchange Pathwaian;;Grand Exchange Pathwaer;;;;;;;;;;;x
+c_long_hall;Long Hall;Long Hall;Long Hall;;Long Hall;;;;;;;;;x
+c_long_hall_adj;Long Hallian;;Long Haller;;;;;;;;;;;x
+c_lum_barbarian_path;Lum Barbarian Path;Lum Barbarian Path;Lum Barbarian Path;;Lum Barbarian Path;;;;;;;;;x
+c_lum_barbarian_path_adj;Lum Barbarian Pathian;;Lum Barbarian Pather;;;;;;;;;;;x
+c_lum_coast;Lum Coast;Lum Coast;Lum Coast;;Lum Coast;;;;;;;;;x
+c_lum_coast_adj;Lum Coastian;;Lum Coaster;;;;;;;;;;;x
+c_lum_crossing;Lum Crossing;Lum Crossing;Lum Crossing;;Lum Crossing;;;;;;;;;x
+c_lum_crossing_adj;Lum Crossingian;;Lum Crossinger;;;;;;;;;;;x
+c_lum_watermill;Lum Watermill;Lum Watermill;Lum Watermill;;Lum Watermill;;;;;;;;;x
+c_lum_watermill_adj;Lum Watermillian;;Lum Watermiller;;;;;;;;;;;x
+c_lumbridge_barn;Lumbridge Barn;Lumbridge Barn;Lumbridge Barn;;Lumbridge Barn;;;;;;;;;x
+c_lumbridge_barn_adj;Lumbridge Barnian;;Lumbridge Barner;;;;;;;;;;;x
+c_lumbridge_castle;Lumbridge Castle;Lumbridge Castle;Lumbridge Castle;;Lumbridge Castle;;;;;;;;;x
+c_lumbridge_castle_adj;Lumbridge Castlean;;Lumbridge Castler;;;;;;;;;;;x
+c_lumbridge_courtyard;Lumbridge Courtyard;Lumbridge Courtyard;Lumbridge Courtyard;;Lumbridge Courtyard;;;;;;;;;x
+c_lumbridge_courtyard_adj;Lumbridge Courtyardian;;Lumbridge Courtyarder;;;;;;;;;;;x
+c_lumbridge_furnace;Lumbridge Furnace;Lumbridge Furnace;Lumbridge Furnace;;Lumbridge Furnace;;;;;;;;;x
+c_lumbridge_furnace_adj;Lumbridge Furnacean;;Lumbridge Furnacer;;;;;;;;;;;x
+c_lumbridge_herding_field;Lumbridge Herding Field;Lumbridge Herding Field;Lumbridge Herding Field;;Lumbridge Herding Field;;;;;;;;;x
+c_lumbridge_herding_field_adj;Lumbridge Herding Fieldian;;Lumbridge Herding Fielder;;;;;;;;;;;x
+c_lumbridge_path;Lumbridge Path;Lumbridge Path;Lumbridge Path;;Lumbridge Path;;;;;;;;;x
+c_lumbridge_path_adj;Lumbridge Pathian;;Lumbridge Pather;;;;;;;;;;;x
+c_lumbridge_pub;Lumbridge Pub;Lumbridge Pub;Lumbridge Pub;;Lumbridge Pub;;;;;;;;;x
+c_lumbridge_pub_adj;Lumbridge Pubian;;Lumbridge Puber;;;;;;;;;;;x
+c_lumbridge_windmill;Lumbridge Windmill;Lumbridge Windmill;Lumbridge Windmill;;Lumbridge Windmill;;;;;;;;;x
+c_lumbridge_windmill_adj;Lumbridge Windmillian;;Lumbridge Windmiller;;;;;;;;;;;x
+c_mages_house;Mage's House;Mage's House;Mage's House;;Mage's House;;;;;;;;;x
+c_mages_house_adj;Mages Housean;;Mage's Houser;;;;;;;;;;;x
+c_north_barbarian_path_plain;North Barbarian Path Plain;North Barbarian Path Plain;North Barbarian Path Plain;;North Barbarian Path Plain;;;;;;;;;x
+c_north_barbarian_path_plain_adj;North Barbarian Path Plainian;;North Barbarian Path Plainer;;;;;;;;;;;x
+c_north_deadwoods;North Deadwoods;North Deadwoods;North Deadwoods;;North Deadwoods;;;;;;;;;x
+c_north_deadwoods_adj;North Deadwoodsian;;North Deadwoodser;;;;;;;;;;;x
+c_north_draynor_courtyard;North Draynor Courtyard;North Draynor Courtyard;North Draynor Courtyard;;North Draynor Courtyard;;;;;;;;;x
+c_north_draynor_courtyard_adj;North Draynor Courtyardian;;North Draynor Courtyarder;;;;;;;;;;;x
+c_north_draynor_village;North Draynor Village;North Draynor Village;North Draynor Village;;North Draynor Village;;;;;;;;;x
+c_north_draynor_village_adj;North Draynor Villagean;;North Draynor Villager;;;;;;;;;;;x
+c_north_east_barbarian_plains;North East Barbarian Plains;North East Barbarian Plains;North East Barbarian Plains;;North East Barbarian Plains;;;;;;;;;x
+c_north_east_barbarian_plains_adj;North East Barbarian Plainsian;;North East Barbarian Plainser;;;;;;;;;;;x
+c_north_of_draynor_cross;North of Draynor Cross;North of Draynor Cross;North of Draynor Cross;;North of Draynor Cross;;;;;;;;;x
+c_north_of_draynor_cross_adj;North of Draynor Crossian;;North of Draynor Crosser;;;;;;;;;;;x
+c_north_varrock_lum_plains;North Varrock Lum Plains;North Varrock Lum Plains;North Varrock Lum Plains;;North Varrock Lum Plains;;;;;;;;;x
+c_north_varrock_lum_plains_adj;North Varrock Lum Plainsian;;North Varrock Lum Plainser;;;;;;;;;;;x
+c_north_west_barbarian_plains;North West Barbarian Plains;North West Barbarian Plains;North West Barbarian Plains;;North West Barbarian Plains;;;;;;;;;x
+c_north_west_barbarian_plains_adj;North West Barbarian Plainsian;;North West Barbarian Plainser;;;;;;;;;;;x
+c_sourh_of_draynor_jail;Sourh of Draynor Jail;Sourh of Draynor Jail;Sourh of Draynor Jail;;Sourh of Draynor Jail;;;;;;;;;x
+c_sourh_of_draynor_jail_adj;Sourh of Draynor Jailian;;Sourh of Draynor Jailer;;;;;;;;;;;x
+c_south_barb_passageway;South Barb. Passageway;South Barb. Passageway;South Barb. Passageway;;South Barb. Passageway;;;;;;;;;x
+c_south_barb_passageway_adj;South Barb. Passagewaian;;South Barb. Passagewaer;;;;;;;;;;;x
+c_south_barbarian_path_plain;South Barbarian Path Plain;South Barbarian Path Plain;South Barbarian Path Plain;;South Barbarian Path Plain;;;;;;;;;x
+c_south_barbarian_path_plain_adj;South Barbarian Path Plainian;;South Barbarian Path Plainer;;;;;;;;;;;x
+c_south_barbarian_plains;South Barbarian Plains;South Barbarian Plains;South Barbarian Plains;;South Barbarian Plains;;;;;;;;;x
+c_south_barbarian_plains_adj;South Barbarian Plainsian;;South Barbarian Plainser;;;;;;;;;;;x
+c_south_draynor_courtyard;South Draynor Courtyard;South Draynor Courtyard;South Draynor Courtyard;;South Draynor Courtyard;;;;;;;;;x
+c_south_draynor_courtyard_adj;South Draynor Courtyardian;;South Draynor Courtyarder;;;;;;;;;;;x
+c_south_draynor_village;South Draynor Village;South Draynor Village;South Draynor Village;;South Draynor Village;;;;;;;;;x
+c_south_draynor_village_adj;South Draynor Villagean;;South Draynor Villager;;;;;;;;;;;x
+c_south_of_the_circle;South of the Circle;South of the Circle;South of the Circle;;South of the Circle;;;;;;;;;x
+c_south_of_the_circle_adj;South of the Circlean;;South of the Circler;;;;;;;;;;;x
+c_south_tutorial_plains;South Tutorial Plains;South Tutorial Plains;South Tutorial Plains;;South Tutorial Plains;;;;;;;;;x
+c_south_tutorial_plains_adj;South Tutorial Plainsian;;South Tutorial Plainser;;;;;;;;;;;x
+c_south_varrock_corn_field;South Varrock Corn Field;South Varrock Corn Field;South Varrock Corn Field;;South Varrock Corn Field;;;;;;;;;x
+c_south_varrock_corn_field_adj;South Varrock Corn Fieldian;;South Varrock Corn Fielder;;;;;;;;;;;x
+c_south_varrock_guard_watch;South Varrock Guard Watch;South Varrock Guard Watch;South Varrock Guard Watch;;South Varrock Guard Watch;;;;;;;;;x
+c_south_varrock_guard_watch_adj;South Varrock Guard Watchian;;South Varrock Guard Watcher;;;;;;;;;;;x
+c_south_varrock_lum_plains;South Varrock Lum Plains;South Varrock Lum Plains;South Varrock Lum Plains;;South Varrock Lum Plains;;;;;;;;;x
+c_south_varrock_lum_plains_adj;South Varrock Lum Plainsian;;South Varrock Lum Plainser;;;;;;;;;;;x
+c_south_varrock_path;South Varrock Path;South Varrock Path;South Varrock Path;;South Varrock Path;;;;;;;;;x
+c_south_varrock_path_adj;South Varrock Pathian;;South Varrock Pather;;;;;;;;;;;x
+c_south_varrock_pub;South Varrock Pub;South Varrock Pub;South Varrock Pub;;South Varrock Pub;;;;;;;;;x
+c_south_varrock_pub_adj;South Varrock Pubian;;South Varrock Puber;;;;;;;;;;;x
+c_stronghold_of_security;Stronghold of Security;Stronghold of Security;Stronghold of Security;;Stronghold of Security;;;;;;;;;x
+c_stronghold_of_security_adj;Stronghold of Securitian;;Stronghold of Securiter;;;;;;;;;;;x
+c_the_biting_tree;The Biting Tree;The Biting Tree;The Biting Tree;;The Biting Tree;;;;;;;;;x
+c_the_biting_tree_adj;The Biting Treean;;The Biting Trer;;;;;;;;;;;x
+c_the_chefs_house;The Chef's House;The Chef's House;The Chef's House;;The Chef's House;;;;;;;;;x
+c_the_chefs_house_adj;The Chefs Housean;;The Chef's Houser;;;;;;;;;;;x
+c_the_guides_house;The Guide's House;The Guide's House;The Guide's House;;The Guide's House;;;;;;;;;x
+c_the_guides_house_adj;The Guides Housean;;The Guide's Houser;;;;;;;;;;;x
+c_the_quests_house;The Quest's House;The Quest's House;The Quest's House;;The Quest's House;;;;;;;;;x
+c_the_quests_house_adj;The Quests Housean;;The Quest's Houser;;;;;;;;;;;x
+c_varrock;Varrock;Varrock;Varrock;;Varrock;;;;;;;;;x
+c_varrock_adj;Varrockian;;varrocker;;;;;;;;;;;x
+c_varrock_anvils;Varrock Anvils;Varrock Anvils;Varrock Anvils;;Varrock Anvils;;;;;;;;;x
+c_varrock_anvils_adj;Varrock Anvilsian;;Varrock Anvilser;;;;;;;;;;;x
+c_varrock_apothecary;Varrock Apothecary;Varrock Apothecary;Varrock Apothecary;;Varrock Apothecary;;;;;;;;;x
+c_varrock_apothecary_adj;Varrock Apothecarian;;Varrock Apothecarer;;;;;;;;;;;x
+c_varrock_chainmail_store;Varrock Chainmail Store;Varrock Chainmail Store;Varrock Chainmail Store;;Varrock Chainmail Store;;;;;;;;;x
+c_varrock_chainmail_store_adj;Varrock Chainmail Storean;;Varrock Chainmail Storer;;;;;;;;;;;x
+c_varrock_church;Varrock Church;Varrock Church;Varrock Church;;Varrock Church;;;;;;;;;x
+c_varrock_church_adj;Varrock Churchian;;Varrock Churcher;;;;;;;;;;;x
+c_varrock_ditch;Varrock Ditch;Varrock Ditch;Varrock Ditch;;Varrock Ditch;;;;;;;;;x
+c_varrock_ditch_adj;Varrock Ditchian;;Varrock Ditcher;;;;;;;;;;;x
+c_varrock_druid_circle;Varrock Druid Circle;Varrock Druid Circle;Varrock Druid Circle;;Varrock Druid Circle;;;;;;;;;x
+c_varrock_druid_circle_adj;Varrock Druid Circlean;;Varrock Druid Circler;;;;;;;;;;;x
+c_varrock_gated_community;Varrock Gated Community;Varrock Gated Community;Varrock Gated Community;;Varrock Gated Community;;;;;;;;;x
+c_varrock_gated_community_adj;Varrock Gated Communitian;;Varrock Gated Communiter;;;;;;;;;;;x
+c_varrock_museum;Varrock Museum;Varrock Museum;Varrock Museum;;Varrock Museum;;;;;;;;;x
+c_varrock_museum_adj;Varrock Museumian;;Varrock Museumer;;;;;;;;;;;x
+c_varrock_path_field;Varrock Path Field;Varrock Path Field;Varrock Path Field;;Varrock Path Field;;;;;;;;;x
+c_varrock_path_field_adj;Varrock Path Fieldian;;Varrock Path Fielder;;;;;;;;;;;x
+c_varrock_south_west_mines;Varrock South West Mines;Varrock South West Mines;Varrock South West Mines;;Varrock South West Mines;;;;;;;;;x
+c_varrock_south_west_mines_adj;Varrock South West Minesian;;Varrock South West Mineser;;;;;;;;;;;x
+c_varrock_square;Varrock Square;Varrock Square;Varrock Square;;Varrock Square;;;;;;;;;x
+c_varrock_square_adj;Varrock Squarean;;Varrock Squarer;;;;;;;;;;;x
+c_west_grand_exchange;West Grand Exchange;West Grand Exchange;West Grand Exchange;;West Grand Exchange;;;;;;;;;x
+c_west_grand_exchange_adj;West Grand Exchangean;;West Grand Exchanger;;;;;;;;;;;x
+c_west_varrock_bank;West Varrock Bank;West Varrock Bank;West Varrock Bank;;West Varrock Bank;;;;;;;;;x
+c_west_varrock_bank_adj;West Varrock Bankian;;West Varrock Banker;;;;;;;;;;;x
+c_west_varrock_guard_watch;West Varrock Guard Watch;West Varrock Guard Watch;West Varrock Guard Watch;;West Varrock Guard Watch;;;;;;;;;x
+c_west_varrock_guard_watch_adj;West Varrock Guard Watchian;;West Varrock Guard Watcher;;;;;;;;;;;x
+c_wizards_bridge;Wizard's Bridge;Wizard's Bridge;Wizard's Bridge;;Wizard's Bridge;;;;;;;;;x
+c_wizards_bridge_adj;Wizards Bridgean;;Wizard's Bridger;;;;;;;;;;;x
+c_wizards_tower;Wizard's Tower;Wizard's Tower;Wizard's Tower;;Wizard's Tower;;;;;;;;;x
+c_wizards_tower_adj;Wizards Towerian;;Wizard's Towerer;;;;;;;;;;;x

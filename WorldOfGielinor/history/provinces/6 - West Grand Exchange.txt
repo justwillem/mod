@@ -1,0 +1,20 @@
+# c_west_grand_exchange
+
+# County Title
+title = c_west_grand_exchange
+
+# Settlements
+max_settlements = 6
+
+b_west_grand_exchange = castle
+#b_west_grand_exchange_2 = city
+#b_west_grand_exchange_3 = temple
+#b_west_grand_exchange_4 = castle
+#b_west_grand_exchange_5 = city
+#b_west_grand_exchange_6 = temple
+
+# Misc
+culture = Norwegian
+religion = catholic
+
+#History

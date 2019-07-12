@@ -1,0 +1,17 @@
+# c_lumbridge_windmill
+
+# County Title
+title = c_lumbridge_windmill
+
+# Settlements
+max_settlements = 3
+
+b_lumbridge_windmill = castle
+#b_lumbridge_windmill_2 = city
+#b_lumbridge_windmill_3 = temple
+
+# Misc
+culture = Norwegian
+religion = catholic
+
+#History

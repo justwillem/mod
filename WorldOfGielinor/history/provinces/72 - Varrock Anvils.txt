@@ -1,0 +1,17 @@
+# c_varrock_anvils
+
+# County Title
+title = c_varrock_anvils
+
+# Settlements
+max_settlements = 3
+
+b_varrock_anvils = castle
+#b_varrock_anvils_2 = city
+#b_varrock_anvils_3 = temple
+
+# Misc
+culture = Norwegian
+religion = catholic
+
+#History

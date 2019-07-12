@@ -1,0 +1,17 @@
+# c_stronghold_of_security
+
+# County Title
+title = c_stronghold_of_security
+
+# Settlements
+max_settlements = 3
+
+b_stronghold_of_security = castle
+#b_stronghold_of_security_2 = city
+#b_stronghold_of_security_3 = temple
+
+# Misc
+culture = Norwegian
+religion = catholic
+
+#History

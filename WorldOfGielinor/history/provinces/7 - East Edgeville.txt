@@ -1,0 +1,16 @@
+# c_east_edgeville
+
+# County Title
+title = c_east_edgeville
+
+# Settlements
+max_settlements = 2
+
+b_east_edgeville = castle
+#b_east_edgeville_2 = city
+
+# Misc
+culture = Norwegian
+religion = catholic
+
+#History

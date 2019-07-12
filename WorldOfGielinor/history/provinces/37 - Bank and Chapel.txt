@@ -1,0 +1,17 @@
+# c_bank_and_chapel
+
+# County Title
+title = c_bank_and_chapel
+
+# Settlements
+max_settlements = 3
+
+b_bank_and_chapel = castle
+#b_bank_and_chapel_2 = city
+#b_bank_and_chapel_3 = temple
+
+# Misc
+culture = Norwegian
+religion = catholic
+
+#History

@@ -1,0 +1,17 @@
+# c_south_of_the_circle
+
+# County Title
+title = c_south_of_the_circle
+
+# Settlements
+max_settlements = 3
+
+b_south_of_the_circle = castle
+#b_south_of_the_circle_2 = city
+#b_south_of_the_circle_3 = temple
+
+# Misc
+culture = Norwegian
+religion = catholic
+
+#History

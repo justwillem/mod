@@ -1,0 +1,17 @@
+# c_lum_watermill
+
+# County Title
+title = c_lum_watermill
+
+# Settlements
+max_settlements = 3
+
+b_lum_watermill = castle
+#b_lum_watermill_2 = city
+#b_lum_watermill_3 = temple
+
+# Misc
+culture = Norwegian
+religion = catholic
+
+#History

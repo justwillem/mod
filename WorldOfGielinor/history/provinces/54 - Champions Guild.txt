@@ -1,0 +1,17 @@
+# c_champions_guild
+
+# County Title
+title = c_champions_guild
+
+# Settlements
+max_settlements = 3
+
+b_champions_guild = castle
+#b_champions_guild_2 = city
+#b_champions_guild_3 = temple
+
+# Misc
+culture = Norwegian
+religion = catholic
+
+#History

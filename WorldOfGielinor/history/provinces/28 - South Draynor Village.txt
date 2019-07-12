@@ -1,0 +1,17 @@
+# c_south_draynor_village
+
+# County Title
+title = c_south_draynor_village
+
+# Settlements
+max_settlements = 3
+
+b_south_draynor_village = castle
+#b_south_draynor_village_2 = city
+#b_south_draynor_village_3 = temple
+
+# Misc
+culture = Norwegian
+religion = catholic
+
+#History

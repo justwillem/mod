@@ -1,0 +1,17 @@
+# c_lumbridge_pub
+
+# County Title
+title = c_lumbridge_pub
+
+# Settlements
+max_settlements = 3
+
+b_lumbridge_pub = castle
+#b_lumbridge_pub_2 = city
+#b_lumbridge_pub_3 = temple
+
+# Misc
+culture = Norwegian
+religion = catholic
+
+#History

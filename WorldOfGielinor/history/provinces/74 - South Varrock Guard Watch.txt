@@ -1,0 +1,17 @@
+# c_south_varrock_guard_watch
+
+# County Title
+title = c_south_varrock_guard_watch
+
+# Settlements
+max_settlements = 3
+
+b_south_varrock_guard_watch = castle
+#b_south_varrock_guard_watch_2 = city
+#b_south_varrock_guard_watch_3 = temple
+
+# Misc
+culture = Norwegian
+religion = catholic
+
+#History

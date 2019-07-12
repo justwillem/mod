@@ -1,0 +1,17 @@
+# c_east_varrock_path
+
+# County Title
+title = c_east_varrock_path
+
+# Settlements
+max_settlements = 3
+
+b_east_varrock_path = castle
+#b_east_varrock_path_2 = city
+#b_east_varrock_path_3 = temple
+
+# Misc
+culture = Norwegian
+religion = catholic
+
+#History

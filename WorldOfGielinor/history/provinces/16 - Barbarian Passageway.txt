@@ -1,0 +1,17 @@
+# c_barbarian_passageway
+
+# County Title
+title = c_barbarian_passageway
+
+# Settlements
+max_settlements = 3
+
+b_barbarian_passageway = castle
+#b_barbarian_passageway_2 = city
+#b_barbarian_passageway_3 = temple
+
+# Misc
+culture = Norwegian
+religion = catholic
+
+#History

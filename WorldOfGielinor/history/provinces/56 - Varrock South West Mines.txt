@@ -1,0 +1,17 @@
+# c_varrock_south_west_mines
+
+# County Title
+title = c_varrock_south_west_mines
+
+# Settlements
+max_settlements = 3
+
+b_varrock_south_west_mines = castle
+#b_varrock_south_west_mines_2 = city
+#b_varrock_south_west_mines_3 = temple
+
+# Misc
+culture = Norwegian
+religion = catholic
+
+#History

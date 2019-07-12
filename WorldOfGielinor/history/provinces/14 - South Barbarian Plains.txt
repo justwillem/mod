@@ -1,0 +1,17 @@
+# c_south_barbarian_plains
+
+# County Title
+title = c_south_barbarian_plains
+
+# Settlements
+max_settlements = 3
+
+b_south_barbarian_plains = castle
+#b_south_barbarian_plains_2 = city
+#b_south_barbarian_plains_3 = temple
+
+# Misc
+culture = Norwegian
+religion = catholic
+
+#History

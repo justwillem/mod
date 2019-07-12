@@ -1,0 +1,17 @@
+# c_grand_exchange_pathway
+
+# County Title
+title = c_grand_exchange_pathway
+
+# Settlements
+max_settlements = 3
+
+b_grand_exchange_pathway = castle
+#b_grand_exchange_pathway_2 = city
+#b_grand_exchange_pathway_3 = temple
+
+# Misc
+culture = Norwegian
+religion = catholic
+
+#History

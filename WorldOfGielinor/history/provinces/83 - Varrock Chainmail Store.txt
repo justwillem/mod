@@ -1,0 +1,17 @@
+# c_varrock_chainmail_store
+
+# County Title
+title = c_varrock_chainmail_store
+
+# Settlements
+max_settlements = 3
+
+b_varrock_chainmail_store = castle
+#b_varrock_chainmail_store_2 = city
+#b_varrock_chainmail_store_3 = temple
+
+# Misc
+culture = Norwegian
+religion = catholic
+
+#History

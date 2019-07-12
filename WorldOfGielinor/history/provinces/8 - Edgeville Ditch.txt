@@ -1,0 +1,17 @@
+# c_edgeville_ditch
+
+# County Title
+title = c_edgeville_ditch
+
+# Settlements
+max_settlements = 3
+
+b_edgeville_ditch = castle
+#b_edgeville_ditch_2 = city
+#b_edgeville_ditch_3 = temple
+
+# Misc
+culture = Norwegian
+religion = catholic
+
+#History

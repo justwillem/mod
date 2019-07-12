@@ -1,0 +1,17 @@
+# c_varrock_ditch
+
+# County Title
+title = c_varrock_ditch
+
+# Settlements
+max_settlements = 3
+
+b_varrock_ditch = castle
+#b_varrock_ditch_2 = city
+#b_varrock_ditch_3 = temple
+
+# Misc
+culture = Norwegian
+religion = catholic
+
+#History

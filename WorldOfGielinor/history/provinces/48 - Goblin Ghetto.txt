@@ -1,0 +1,17 @@
+# c_goblin_ghetto
+
+# County Title
+title = c_goblin_ghetto
+
+# Settlements
+max_settlements = 3
+
+b_goblin_ghetto = castle
+#b_goblin_ghetto_2 = city
+#b_goblin_ghetto_3 = temple
+
+# Misc
+culture = Norwegian
+religion = catholic
+
+#History

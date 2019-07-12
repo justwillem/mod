@@ -1,0 +1,17 @@
+# c_barbarian_square
+
+# County Title
+title = c_barbarian_square
+
+# Settlements
+max_settlements = 3
+
+b_barbarian_square = castle
+#b_barbarian_square_2 = city
+#b_barbarian_square_3 = temple
+
+# Misc
+culture = Norwegian
+religion = catholic
+
+#History

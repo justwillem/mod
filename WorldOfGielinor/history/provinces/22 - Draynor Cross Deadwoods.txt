@@ -1,0 +1,17 @@
+# c_draynor_cross_deadwoods
+
+# County Title
+title = c_draynor_cross_deadwoods
+
+# Settlements
+max_settlements = 3
+
+b_draynor_cross_deadwoods = castle
+#b_draynor_cross_deadwoods_2 = city
+#b_draynor_cross_deadwoods_3 = temple
+
+# Misc
+culture = Norwegian
+religion = catholic
+
+#History
