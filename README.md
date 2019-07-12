@@ -6,7 +6,7 @@ Two days ago, that is 2019-07-08, I had no idea how to start a user modification
 
 It is my hope that eventually someone with more experience in user modification could contact me and help me and contribute in realizing my project so it can eventually be enjoyed by everybody.
 
-#END INTRO
+#END INTRO  
 
 
 #INSTALLATION INSTRUCTION
@@ -22,7 +22,7 @@ Note: Only the folder and .mod file is necessary for playtesting.
 
 #ModMethod
 
-This mod could not be written if it weren't for ParadoxUsername: JonStryker, as the foundation of my work comes from his guide on how to make a Total Conversion Mod.
+This mod could not be written if it weren't for ParadoxUsername and GitHub username: JonStryker, as the foundation of my work comes from his guide on how to make a Total Conversion Mod.
         You can find that guide here: https://forum.paradoxplaza.com/forum/index.php?threads/guide-to-total-conversion-map-modding-clans-of-ireland.801599/
 
 
@@ -39,6 +39,17 @@ Though, if you don't have access to a copy, I would recommend you find some othe
             I assume there are ways to generate .DDS files on other programs, but you have to do your own research on that :) .
 
 Excel, since I am a student I have access to Office 365, chances are if you are a student or work for a company that needs a lot of IT services you have access to this too. I am simply not going to link a way to purchase Excel as I also have moral qualms about giving more than the bare minimum financial support to Microsoft. In any case you can also use OpenOffice Calc, though I think you need to download the entirety of OpenOffice to get to that point (So it's not unlike Microsoft Office).
+
+
+#.BMP Files, .DDS Files and photoshop
+
+The Files that concern the visual aspect of the mod are found in the map directory (mod\WorldOfGielinor\map)
+These files are modifications of the 'Vanilla' files found in the original game file directories (in the file map)
+This mod uses a custom resolution for the map of 2560 x 4096. This is different from the vanilla resolution which is 3072 x 2048 . Apparently any resolution would world as long as it is divisible by 64. Do note that trees.bmp should be 1/8 of the resolution of everything else. Everything written here is heavily based on JonStrykers guide so I would recommend his explanation.
+You can open provinces.psd in the mod\ directory, this is what I used to make most of the .bmp files.
+I don't have a very good knowledge on how to make .DDS files, but you can download the aforementioned NVidia plugin which will give an option on the photoshop filter tab, you will generate a .DDS file. You do this to generate images for the \map\terrain files, as well as world_normal_height. But I haven't figured this out :D
+
+
 
 #Map Filler Tool
 
