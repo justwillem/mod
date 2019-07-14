@@ -55,8 +55,6 @@ c_long_hall;Long Hall;Long Hall;Long Hall;;Long Hall;;;;;;;;;x
 c_long_hall_adj;Long Hallian;;Long Haller;;;;;;;;;;;x
 c_lum_barbarian_path;Lum Barbarian Path;Lum Barbarian Path;Lum Barbarian Path;;Lum Barbarian Path;;;;;;;;;x
 c_lum_barbarian_path_adj;Lum Barbarian Pathian;;Lum Barbarian Pather;;;;;;;;;;;x
-c_lum_coast;Lum Coast;Lum Coast;Lum Coast;;Lum Coast;;;;;;;;;x
-c_lum_coast_adj;Lum Coastian;;Lum Coaster;;;;;;;;;;;x
 c_lum_crossing;Lum Crossing;Lum Crossing;Lum Crossing;;Lum Crossing;;;;;;;;;x
 c_lum_crossing_adj;Lum Crossingian;;Lum Crossinger;;;;;;;;;;;x
 c_lum_watermill;Lum Watermill;Lum Watermill;Lum Watermill;;Lum Watermill;;;;;;;;;x
@@ -97,8 +95,6 @@ c_north_west_barbarian_plains;North West Barbarian Plains;North West Barbarian P
 c_north_west_barbarian_plains_adj;North West Barbarian Plainsian;;North West Barbarian Plainser;;;;;;;;;;;x
 c_sourh_of_draynor_jail;Sourh of Draynor Jail;Sourh of Draynor Jail;Sourh of Draynor Jail;;Sourh of Draynor Jail;;;;;;;;;x
 c_sourh_of_draynor_jail_adj;Sourh of Draynor Jailian;;Sourh of Draynor Jailer;;;;;;;;;;;x
-c_south_barb_passageway;South Barb. Passageway;South Barb. Passageway;South Barb. Passageway;;South Barb. Passageway;;;;;;;;;x
-c_south_barb_passageway_adj;South Barb. Passagewaian;;South Barb. Passagewaer;;;;;;;;;;;x
 c_south_barbarian_path_plain;South Barbarian Path Plain;South Barbarian Path Plain;South Barbarian Path Plain;;South Barbarian Path Plain;;;;;;;;;x
 c_south_barbarian_path_plain_adj;South Barbarian Path Plainian;;South Barbarian Path Plainer;;;;;;;;;;;x
 c_south_barbarian_plains;South Barbarian Plains;South Barbarian Plains;South Barbarian Plains;;South Barbarian Plains;;;;;;;;;x
@@ -111,14 +107,10 @@ c_south_of_the_circle;South of the Circle;South of the Circle;South of the Circl
 c_south_of_the_circle_adj;South of the Circlean;;South of the Circler;;;;;;;;;;;x
 c_south_tutorial_plains;South Tutorial Plains;South Tutorial Plains;South Tutorial Plains;;South Tutorial Plains;;;;;;;;;x
 c_south_tutorial_plains_adj;South Tutorial Plainsian;;South Tutorial Plainser;;;;;;;;;;;x
-c_south_varrock_corn_field;South Varrock Corn Field;South Varrock Corn Field;South Varrock Corn Field;;South Varrock Corn Field;;;;;;;;;x
-c_south_varrock_corn_field_adj;South Varrock Corn Fieldian;;South Varrock Corn Fielder;;;;;;;;;;;x
 c_south_varrock_guard_watch;South Varrock Guard Watch;South Varrock Guard Watch;South Varrock Guard Watch;;South Varrock Guard Watch;;;;;;;;;x
 c_south_varrock_guard_watch_adj;South Varrock Guard Watchian;;South Varrock Guard Watcher;;;;;;;;;;;x
 c_south_varrock_lum_plains;South Varrock Lum Plains;South Varrock Lum Plains;South Varrock Lum Plains;;South Varrock Lum Plains;;;;;;;;;x
 c_south_varrock_lum_plains_adj;South Varrock Lum Plainsian;;South Varrock Lum Plainser;;;;;;;;;;;x
-c_south_varrock_path;South Varrock Path;South Varrock Path;South Varrock Path;;South Varrock Path;;;;;;;;;x
-c_south_varrock_path_adj;South Varrock Pathian;;South Varrock Pather;;;;;;;;;;;x
 c_south_varrock_pub;South Varrock Pub;South Varrock Pub;South Varrock Pub;;South Varrock Pub;;;;;;;;;x
 c_south_varrock_pub_adj;South Varrock Pubian;;South Varrock Puber;;;;;;;;;;;x
 c_stronghold_of_security;Stronghold of Security;Stronghold of Security;Stronghold of Security;;Stronghold of Security;;;;;;;;;x
@@ -149,6 +141,8 @@ c_varrock_gated_community;Varrock Gated Community;Varrock Gated Community;Varroc
 c_varrock_gated_community_adj;Varrock Gated Communitian;;Varrock Gated Communiter;;;;;;;;;;;x
 c_varrock_museum;Varrock Museum;Varrock Museum;Varrock Museum;;Varrock Museum;;;;;;;;;x
 c_varrock_museum_adj;Varrock Museumian;;Varrock Museumer;;;;;;;;;;;x
+c_varrock_path;Varrock Path;Varrock Path;Varrock Path;;Varrock Path;;;;;;;;;x
+c_varrock_path_adj;Varrock Pathian;;Varrock Pather;;;;;;;;;;;x
 c_varrock_path_field;Varrock Path Field;Varrock Path Field;Varrock Path Field;;Varrock Path Field;;;;;;;;;x
 c_varrock_path_field_adj;Varrock Path Fieldian;;Varrock Path Fielder;;;;;;;;;;;x
 c_varrock_south_west_mines;Varrock South West Mines;Varrock South West Mines;Varrock South West Mines;;Varrock South West Mines;;;;;;;;;x

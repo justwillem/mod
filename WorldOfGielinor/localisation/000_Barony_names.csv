@@ -173,12 +173,6 @@ b_lum_barbarian_path_2;Lum Barbarian Path;Lum Barbarian Path;Lum Barbarian Path;
 b_lum_barbarian_path_2_adj;Lum Barbarian Pathian;;Lum Barbarian Pather;;;;;;;;;;;x
 b_lum_barbarian_path_3;Lum Barbarian Path;Lum Barbarian Path;Lum Barbarian Path;;Lum Barbarian Path;;;;;;;;;x
 b_lum_barbarian_path_3_adj;Lum Barbarian Pathian;;Lum Barbarian Pather;;;;;;;;;;;x
-b_lum_coast;Lum Coast;Lum Coast;Lum Coast;;Lum Coast;;;;;;;;;x
-b_lum_coast_adj;Lum Coastian;;Lum Coaster;;;;;;;;;;;x
-b_lum_coast_2;Lum Coast;Lum Coast;Lum Coast;;Lum Coast;;;;;;;;;x
-b_lum_coast_2_adj;Lum Coastian;;Lum Coaster;;;;;;;;;;;x
-b_lum_coast_3;Lum Coast;Lum Coast;Lum Coast;;Lum Coast;;;;;;;;;x
-b_lum_coast_3_adj;Lum Coastian;;Lum Coaster;;;;;;;;;;;x
 b_lum_crossing;Lum Crossing;Lum Crossing;Lum Crossing;;Lum Crossing;;;;;;;;;x
 b_lum_crossing_adj;Lum Crossingian;;Lum Crossinger;;;;;;;;;;;x
 b_lum_crossing_2;Lum Crossing;Lum Crossing;Lum Crossing;;Lum Crossing;;;;;;;;;x
@@ -299,12 +293,6 @@ b_sourh_of_draynor_jail_2;Sourh of Draynor Jail;Sourh of Draynor Jail;Sourh of D
 b_sourh_of_draynor_jail_2_adj;Sourh of Draynor Jailian;;Sourh of Draynor Jailer;;;;;;;;;;;x
 b_sourh_of_draynor_jail_3;Sourh of Draynor Jail;Sourh of Draynor Jail;Sourh of Draynor Jail;;Sourh of Draynor Jail;;;;;;;;;x
 b_sourh_of_draynor_jail_3_adj;Sourh of Draynor Jailian;;Sourh of Draynor Jailer;;;;;;;;;;;x
-b_south_barb_passageway;South Barb. Passageway;South Barb. Passageway;South Barb. Passageway;;South Barb. Passageway;;;;;;;;;x
-b_south_barb_passageway_adj;South Barb. Passagewaian;;South Barb. Passagewaer;;;;;;;;;;;x
-b_south_barb_passageway_2;South Barb. Passageway;South Barb. Passageway;South Barb. Passageway;;South Barb. Passageway;;;;;;;;;x
-b_south_barb_passageway_2_adj;South Barb. Passagewaian;;South Barb. Passagewaer;;;;;;;;;;;x
-b_south_barb_passageway_3;South Barb. Passageway;South Barb. Passageway;South Barb. Passageway;;South Barb. Passageway;;;;;;;;;x
-b_south_barb_passageway_3_adj;South Barb. Passagewaian;;South Barb. Passagewaer;;;;;;;;;;;x
 b_south_barbarian_path_plain;South Barbarian Path Plain;South Barbarian Path Plain;South Barbarian Path Plain;;South Barbarian Path Plain;;;;;;;;;x
 b_south_barbarian_path_plain_adj;South Barbarian Path Plainian;;South Barbarian Path Plainer;;;;;;;;;;;x
 b_south_barbarian_path_plain_2;South Barbarian Path Plain;South Barbarian Path Plain;South Barbarian Path Plain;;South Barbarian Path Plain;;;;;;;;;x
@@ -341,12 +329,6 @@ b_south_tutorial_plains_2;South Tutorial Plains;South Tutorial Plains;South Tuto
 b_south_tutorial_plains_2_adj;South Tutorial Plainsian;;South Tutorial Plainser;;;;;;;;;;;x
 b_south_tutorial_plains_3;South Tutorial Plains;South Tutorial Plains;South Tutorial Plains;;South Tutorial Plains;;;;;;;;;x
 b_south_tutorial_plains_3_adj;South Tutorial Plainsian;;South Tutorial Plainser;;;;;;;;;;;x
-b_south_varrock_corn_field;South Varrock Corn Field;South Varrock Corn Field;South Varrock Corn Field;;South Varrock Corn Field;;;;;;;;;x
-b_south_varrock_corn_field_adj;South Varrock Corn Fieldian;;South Varrock Corn Fielder;;;;;;;;;;;x
-b_south_varrock_corn_field_2;South Varrock Corn Field;South Varrock Corn Field;South Varrock Corn Field;;South Varrock Corn Field;;;;;;;;;x
-b_south_varrock_corn_field_2_adj;South Varrock Corn Fieldian;;South Varrock Corn Fielder;;;;;;;;;;;x
-b_south_varrock_corn_field_3;South Varrock Corn Field;South Varrock Corn Field;South Varrock Corn Field;;South Varrock Corn Field;;;;;;;;;x
-b_south_varrock_corn_field_3_adj;South Varrock Corn Fieldian;;South Varrock Corn Fielder;;;;;;;;;;;x
 b_south_varrock_guard_watch;South Varrock Guard Watch;South Varrock Guard Watch;South Varrock Guard Watch;;South Varrock Guard Watch;;;;;;;;;x
 b_south_varrock_guard_watch_adj;South Varrock Guard Watchian;;South Varrock Guard Watcher;;;;;;;;;;;x
 b_south_varrock_guard_watch_2;South Varrock Guard Watch;South Varrock Guard Watch;South Varrock Guard Watch;;South Varrock Guard Watch;;;;;;;;;x
@@ -359,12 +341,6 @@ b_south_varrock_lum_plains_2;South Varrock Lum Plains;South Varrock Lum Plains;S
 b_south_varrock_lum_plains_2_adj;South Varrock Lum Plainsian;;South Varrock Lum Plainser;;;;;;;;;;;x
 b_south_varrock_lum_plains_3;South Varrock Lum Plains;South Varrock Lum Plains;South Varrock Lum Plains;;South Varrock Lum Plains;;;;;;;;;x
 b_south_varrock_lum_plains_3_adj;South Varrock Lum Plainsian;;South Varrock Lum Plainser;;;;;;;;;;;x
-b_south_varrock_path;South Varrock Path;South Varrock Path;South Varrock Path;;South Varrock Path;;;;;;;;;x
-b_south_varrock_path_adj;South Varrock Pathian;;South Varrock Pather;;;;;;;;;;;x
-b_south_varrock_path_2;South Varrock Path;South Varrock Path;South Varrock Path;;South Varrock Path;;;;;;;;;x
-b_south_varrock_path_2_adj;South Varrock Pathian;;South Varrock Pather;;;;;;;;;;;x
-b_south_varrock_path_3;South Varrock Path;South Varrock Path;South Varrock Path;;South Varrock Path;;;;;;;;;x
-b_south_varrock_path_3_adj;South Varrock Pathian;;South Varrock Pather;;;;;;;;;;;x
 b_south_varrock_pub;South Varrock Pub;South Varrock Pub;South Varrock Pub;;South Varrock Pub;;;;;;;;;x
 b_south_varrock_pub_adj;South Varrock Pubian;;South Varrock Puber;;;;;;;;;;;x
 b_south_varrock_pub_2;South Varrock Pub;South Varrock Pub;South Varrock Pub;;South Varrock Pub;;;;;;;;;x
@@ -461,6 +437,12 @@ b_varrock_museum_2;Varrock Museum;Varrock Museum;Varrock Museum;;Varrock Museum;
 b_varrock_museum_2_adj;Varrock Museumian;;Varrock Museumer;;;;;;;;;;;x
 b_varrock_museum_3;Varrock Museum;Varrock Museum;Varrock Museum;;Varrock Museum;;;;;;;;;x
 b_varrock_museum_3_adj;Varrock Museumian;;Varrock Museumer;;;;;;;;;;;x
+b_varrock_path;Varrock Path;Varrock Path;Varrock Path;;Varrock Path;;;;;;;;;x
+b_varrock_path_adj;Varrock Pathian;;Varrock Pather;;;;;;;;;;;x
+b_varrock_path_2;Varrock Path;Varrock Path;Varrock Path;;Varrock Path;;;;;;;;;x
+b_varrock_path_2_adj;Varrock Pathian;;Varrock Pather;;;;;;;;;;;x
+b_varrock_path_3;Varrock Path;Varrock Path;Varrock Path;;Varrock Path;;;;;;;;;x
+b_varrock_path_3_adj;Varrock Pathian;;Varrock Pather;;;;;;;;;;;x
 b_varrock_path_field;Varrock Path Field;Varrock Path Field;Varrock Path Field;;Varrock Path Field;;;;;;;;;x
 b_varrock_path_field_adj;Varrock Path Fieldian;;Varrock Path Fielder;;;;;;;;;;;x
 b_varrock_path_field_2;Varrock Path Field;Varrock Path Field;Varrock Path Field;;Varrock Path Field;;;;;;;;;x

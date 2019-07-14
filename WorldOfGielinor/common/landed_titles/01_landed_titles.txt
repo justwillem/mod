@@ -16,6 +16,17 @@ e_gielinor = {
 		capital = 1 # c_varrock
 		culture = Norwegian
 		
+		c_varrock_path = { # 51
+			color={ 228 113 35 }
+			color2={ 255 255 255 }
+			
+			b_varrock_path = {
+			}
+			b_varrock_path_2 = {
+			}
+			b_varrock_path_3 = {
+			}
+		}
 		d_upper_varrock = {
 			color={ 30 156 5 }
 			color2={ 255 255 255 }
@@ -75,12 +86,12 @@ e_gielinor = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 64 province_id = 65 province_id = 66 province_id = 67 } }
+					any_demesne_province = { OR = { province_id = 63 province_id = 64 province_id = 65 province_id = 66 } }
 				}
 			}
-			capital = 64 # c_lum_barbarian_path
+			capital = 63 # c_lum_barbarian_path
 			
-			c_lum_barbarian_path = { # 64
+			c_lum_barbarian_path = { # 63
 				color={ 57 156 31 }
 				color2={ 255 255 255 }
 				
@@ -91,7 +102,7 @@ e_gielinor = {
 				b_lum_barbarian_path_3 = {
 				}
 			}
-			c_barbarian_path = { # 67
+			c_barbarian_path = { # 66
 				color={ 43 105 27 }
 				color2={ 255 255 255 }
 				
@@ -102,7 +113,7 @@ e_gielinor = {
 				b_barbarian_path_3 = {
 				}
 			}
-			c_north_barbarian_path_plain = { # 65
+			c_north_barbarian_path_plain = { # 64
 				color={ 84 205 49 }
 				color2={ 255 255 255 }
 				
@@ -113,7 +124,7 @@ e_gielinor = {
 				b_north_barbarian_path_plain_3 = {
 				}
 			}
-			c_south_barbarian_path_plain = { # 66
+			c_south_barbarian_path_plain = { # 65
 				color={ 14 38 7 }
 				color2={ 255 255 255 }
 				
@@ -200,7 +211,7 @@ e_gielinor = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 54 province_id = 55 province_id = 56 province_id = 57 } }
+					any_demesne_province = { OR = { province_id = 54 province_id = 55 province_id = 56 } }
 				}
 			}
 			capital = 54 # c_champions_guild
@@ -227,17 +238,6 @@ e_gielinor = {
 				b_champions_guild_path_3 = {
 				}
 			}
-			c_south_varrock_corn_field = { # 57
-				color={ 228 113 35 }
-				color2={ 255 255 255 }
-				
-				b_south_varrock_corn_field = {
-				}
-				b_south_varrock_corn_field_2 = {
-				}
-				b_south_varrock_corn_field_3 = {
-				}
-			}
 			c_varrock_south_west_mines = { # 56
 				color={ 64 74 61 }
 				color2={ 255 255 255 }
@@ -257,7 +257,7 @@ e_gielinor = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 16 province_id = 17 province_id = 18 province_id = 19 province_id = 20 } }
+					any_demesne_province = { OR = { province_id = 16 province_id = 18 province_id = 19 province_id = 20 } }
 				}
 			}
 			capital = 16 # c_barbarian_passageway
@@ -293,17 +293,6 @@ e_gielinor = {
 				b_north_deadwoods_2 = {
 				}
 				b_north_deadwoods_3 = {
-				}
-			}
-			c_south_barb_passageway = { # 17
-				color={ 223 234 165 }
-				color2={ 255 255 255 }
-				
-				b_south_barb_passageway = {
-				}
-				b_south_barb_passageway_2 = {
-				}
-				b_south_barb_passageway_3 = {
 				}
 			}
 			c_the_biting_tree = { # 18
@@ -544,12 +533,12 @@ e_gielinor = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 76 province_id = 77 province_id = 78 } }
+					any_demesne_province = { OR = { province_id = 75 province_id = 76 province_id = 77 } }
 				}
 			}
-			capital = 76 # c_varrock_gated_community
+			capital = 75 # c_varrock_gated_community
 			
-			c_varrock_gated_community = { # 76
+			c_varrock_gated_community = { # 75
 				color={ 181 163 124 }
 				color2={ 255 255 255 }
 				
@@ -560,7 +549,7 @@ e_gielinor = {
 				b_varrock_gated_community_3 = {
 				}
 			}
-			c_east_varrock_teastall = { # 78
+			c_east_varrock_teastall = { # 77
 				color={ 171 154 116 }
 				color2={ 255 255 255 }
 				
@@ -571,7 +560,7 @@ e_gielinor = {
 				b_east_varrock_teastall_3 = {
 				}
 			}
-			c_east_varrock_temple = { # 77
+			c_east_varrock_temple = { # 76
 				color={ 137 118 57 }
 				color2={ 255 255 255 }
 				
@@ -590,12 +579,12 @@ e_gielinor = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 79 province_id = 80 province_id = 81 } }
+					any_demesne_province = { OR = { province_id = 78 province_id = 79 province_id = 80 } }
 				}
 			}
-			capital = 79 # c_east_varrock_bank
+			capital = 78 # c_east_varrock_bank
 			
-			c_east_varrock_bank = { # 79
+			c_east_varrock_bank = { # 78
 				color={ 189 170 129 }
 				color2={ 255 255 255 }
 				
@@ -606,7 +595,7 @@ e_gielinor = {
 				b_east_varrock_bank_3 = {
 				}
 			}
-			c_east_varrock_path = { # 80
+			c_east_varrock_path = { # 79
 				color={ 214 187 143 }
 				color2={ 255 255 255 }
 				
@@ -617,7 +606,7 @@ e_gielinor = {
 				b_east_varrock_path_3 = {
 				}
 			}
-			c_varrock_museum = { # 81
+			c_varrock_museum = { # 80
 				color={ 161 147 110 }
 				color2={ 255 255 255 }
 				
@@ -854,12 +843,12 @@ e_gielinor = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 74 province_id = 75 } }
+					any_demesne_province = { OR = { province_id = 73 province_id = 74 } }
 				}
 			}
-			capital = 74 # c_south_varrock_guard_watch
+			capital = 73 # c_south_varrock_guard_watch
 			
-			c_south_varrock_guard_watch = { # 74
+			c_south_varrock_guard_watch = { # 73
 				color={ 155 133 64 }
 				color2={ 255 255 255 }
 				
@@ -870,7 +859,7 @@ e_gielinor = {
 				b_south_varrock_guard_watch_3 = {
 				}
 			}
-			c_south_varrock_pub = { # 75
+			c_south_varrock_pub = { # 74
 				color={ 149 129 61 }
 				color2={ 255 255 255 }
 				
@@ -992,12 +981,12 @@ e_gielinor = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 58 province_id = 59 } }
+					any_demesne_province = { OR = { province_id = 57 province_id = 58 } }
 				}
 			}
-			capital = 58 # c_varrock_druid_circle
+			capital = 57 # c_varrock_druid_circle
 			
-			c_varrock_druid_circle = { # 58
+			c_varrock_druid_circle = { # 57
 				color={ 39 0 0 }
 				color2={ 255 255 255 }
 				
@@ -1008,7 +997,7 @@ e_gielinor = {
 				b_varrock_druid_circle_3 = {
 				}
 			}
-			c_south_of_the_circle = { # 59
+			c_south_of_the_circle = { # 58
 				color={ 61 92 75 }
 				color2={ 255 255 255 }
 				
@@ -1027,12 +1016,12 @@ e_gielinor = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 60 province_id = 61 province_id = 62 province_id = 63 } }
+					any_demesne_province = { OR = { province_id = 59 province_id = 60 province_id = 61 province_id = 62 } }
 				}
 			}
-			capital = 60 # c_north_varrock_lum_plains
+			capital = 59 # c_north_varrock_lum_plains
 			
-			c_north_varrock_lum_plains = { # 60
+			c_north_varrock_lum_plains = { # 59
 				color={ 24 44 19 }
 				color2={ 255 255 255 }
 				
@@ -1043,7 +1032,7 @@ e_gielinor = {
 				b_north_varrock_lum_plains_3 = {
 				}
 			}
-			c_east_varrock_lum_plains = { # 63
+			c_east_varrock_lum_plains = { # 62
 				color={ 36 56 31 }
 				color2={ 255 255 255 }
 				
@@ -1054,7 +1043,7 @@ e_gielinor = {
 				b_east_varrock_lum_plains_3 = {
 				}
 			}
-			c_gertrudes_house = { # 62
+			c_gertrudes_house = { # 61
 				color={ 16 34 12 }
 				color2={ 255 255 255 }
 				
@@ -1065,7 +1054,7 @@ e_gielinor = {
 				b_gertrudes_house_3 = {
 				}
 			}
-			c_south_varrock_lum_plains = { # 61
+			c_south_varrock_lum_plains = { # 60
 				color={ 32 51 19 }
 				color2={ 255 255 255 }
 				
@@ -1078,41 +1067,30 @@ e_gielinor = {
 			}
 		}
 		d_varrock_path = {
-			color={ 206 108 46 }
+			color={ 238 103 40 }
 			color2={ 255 255 255 }
 			
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 51 province_id = 52 province_id = 53 } }
+					any_demesne_province = { OR = { province_id = 51 province_id = 52 } }
 				}
 			}
-			capital = 51 # c_south_varrock_path
+			capital = 51 # c_varrock_path
 			
-			c_south_varrock_path = { # 51
-				color={ 196 118 41 }
+			c_varrock_path = { # 51
+				color={ 228 113 35 }
 				color2={ 255 255 255 }
 				
-				b_south_varrock_path = {
+				b_varrock_path = {
 				}
-				b_south_varrock_path_2 = {
+				b_varrock_path_2 = {
 				}
-				b_south_varrock_path_3 = {
-				}
-			}
-			c_lum_coast = { # 53
-				color={ 219 122 46 }
-				color2={ 255 255 255 }
-				
-				b_lum_coast = {
-				}
-				b_lum_coast_2 = {
-				}
-				b_lum_coast_3 = {
+				b_varrock_path_3 = {
 				}
 			}
 			c_varrock_path_field = { # 52
-				color={ 180 118 36 }
+				color={ 196 118 41 }
 				color2={ 255 255 255 }
 				
 				b_varrock_path_field = {
@@ -1130,12 +1108,12 @@ e_gielinor = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 82 province_id = 83 } }
+					any_demesne_province = { OR = { province_id = 81 province_id = 82 } }
 				}
 			}
-			capital = 82 # c_varrock_square
+			capital = 81 # c_varrock_square
 			
-			c_varrock_square = { # 82
+			c_varrock_square = { # 81
 				color={ 244 210 166 }
 				color2={ 255 255 255 }
 				
@@ -1146,7 +1124,7 @@ e_gielinor = {
 				b_varrock_square_3 = {
 				}
 			}
-			c_varrock_chainmail_store = { # 83
+			c_varrock_chainmail_store = { # 82
 				color={ 203 179 138 }
 				color2={ 255 255 255 }
 				
@@ -1165,12 +1143,12 @@ e_gielinor = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 68 province_id = 69 province_id = 70 } }
+					any_demesne_province = { OR = { province_id = 67 province_id = 68 province_id = 69 } }
 				}
 			}
-			capital = 68 # c_cooking_guild
+			capital = 67 # c_cooking_guild
 			
-			c_cooking_guild = { # 68
+			c_cooking_guild = { # 67
 				color={ 142 135 94 }
 				color2={ 255 255 255 }
 				
@@ -1181,7 +1159,7 @@ e_gielinor = {
 				b_cooking_guild_3 = {
 				}
 			}
-			c_grand_exchange_pathway = { # 70
+			c_grand_exchange_pathway = { # 69
 				color={ 148 138 98 }
 				color2={ 255 255 255 }
 				
@@ -1192,7 +1170,7 @@ e_gielinor = {
 				b_grand_exchange_pathway_3 = {
 				}
 			}
-			c_west_varrock_bank = { # 69
+			c_west_varrock_bank = { # 68
 				color={ 137 132 90 }
 				color2={ 255 255 255 }
 				
@@ -1211,12 +1189,12 @@ e_gielinor = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 71 province_id = 72 province_id = 73 } }
+					any_demesne_province = { OR = { province_id = 70 province_id = 71 province_id = 72 } }
 				}
 			}
-			capital = 71 # c_west_varrock_guard_watch
+			capital = 70 # c_west_varrock_guard_watch
 			
-			c_west_varrock_guard_watch = { # 71
+			c_west_varrock_guard_watch = { # 70
 				color={ 67 76 58 }
 				color2={ 255 255 255 }
 				
@@ -1227,7 +1205,7 @@ e_gielinor = {
 				b_west_varrock_guard_watch_3 = {
 				}
 			}
-			c_varrock_anvils = { # 72
+			c_varrock_anvils = { # 71
 				color={ 145 125 60 }
 				color2={ 255 255 255 }
 				
@@ -1238,7 +1216,7 @@ e_gielinor = {
 				b_varrock_anvils_3 = {
 				}
 			}
-			c_varrock_apothecary = { # 73
+			c_varrock_apothecary = { # 72
 				color={ 162 139 67 }
 				color2={ 255 255 255 }
 				
