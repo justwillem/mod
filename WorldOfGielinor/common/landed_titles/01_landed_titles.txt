@@ -6,27 +6,16 @@ e_gielinor = {
 	color={ 60 126 20 }
 	color2={ 255 255 20 }
 	
-	capital = 1 # c_varrock
+	capital = 1 # c_varrock_castle
 	culture = Norwegian
 	
 	k_misthalin = {
 		color={ 50 136 15 }
 		color2={ 255 255 255 }
 		
-		capital = 1 # c_varrock
+		capital = 1 # c_varrock_castle
 		culture = Norwegian
 		
-		c_varrock_path = { # 51
-			color={ 228 113 35 }
-			color2={ 255 255 255 }
-			
-			b_varrock_path = {
-			}
-			b_varrock_path_2 = {
-			}
-			b_varrock_path_3 = {
-			}
-		}
 		d_upper_varrock = {
 			color={ 30 156 5 }
 			color2={ 255 255 255 }
@@ -37,23 +26,21 @@ e_gielinor = {
 					any_demesne_province = { OR = { province_id = 1 province_id = 2 province_id = 3 } }
 				}
 			}
-			capital = 1 # c_varrock
+			capital = 1 # c_varrock_castle
 			
-			c_varrock = { # 1
+			c_varrock_castle = { # 1
 				color={ 20 166 0 }
 				color2={ 255 255 255 }
 				
-				b_varrock = {
+				b_varrock_castle = {
 				}
-				b_varrock_2 = {
+				b_varrock_castle_2 = {
 				}
-				b_varrock_3 = {
+				b_varrock_castle_3 = {
 				}
-				b_varrock_4 = {
+				b_varrock_castle_4 = {
 				}
-				b_varrock_5 = {
-				}
-				b_varrock_6 = {
+				b_varrock_castle_5 = {
 				}
 			}
 			c_varrock_church = { # 2
@@ -376,15 +363,15 @@ e_gielinor = {
 				b_draynor_jail_3 = {
 				}
 			}
-			c_sourh_of_draynor_jail = { # 31
+			c_south_of_draynor_jail = { # 31
 				color={ 166 171 34 }
 				color2={ 255 255 255 }
 				
-				b_sourh_of_draynor_jail = {
+				b_south_of_draynor_jail = {
 				}
-				b_sourh_of_draynor_jail_2 = {
+				b_south_of_draynor_jail_2 = {
 				}
-				b_sourh_of_draynor_jail_3 = {
+				b_south_of_draynor_jail_3 = {
 				}
 			}
 		}
@@ -701,8 +688,6 @@ e_gielinor = {
 				}
 				b_east_grand_exchange_5 = {
 				}
-				b_east_grand_exchange_6 = {
-				}
 			}
 			c_west_grand_exchange = { # 6
 				color={ 14 83 5 }
@@ -717,8 +702,6 @@ e_gielinor = {
 				b_west_grand_exchange_4 = {
 				}
 				b_west_grand_exchange_5 = {
-				}
-				b_west_grand_exchange_6 = {
 				}
 			}
 		}

@@ -91,8 +91,6 @@ b_east_grand_exchange_4;East Grand Exchange;East Grand Exchange;East Grand Excha
 b_east_grand_exchange_4_adj;East Grand Exchangean;;East Grand Exchanger;;;;;;;;;;;x
 b_east_grand_exchange_5;East Grand Exchange;East Grand Exchange;East Grand Exchange;;East Grand Exchange;;;;;;;;;x
 b_east_grand_exchange_5_adj;East Grand Exchangean;;East Grand Exchanger;;;;;;;;;;;x
-b_east_grand_exchange_6;East Grand Exchange;East Grand Exchange;East Grand Exchange;;East Grand Exchange;;;;;;;;;x
-b_east_grand_exchange_6_adj;East Grand Exchangean;;East Grand Exchanger;;;;;;;;;;;x
 b_east_varrock_bank;East Varrock Bank;East Varrock Bank;East Varrock Bank;;East Varrock Bank;;;;;;;;;x
 b_east_varrock_bank_adj;East Varrock Bankian;;East Varrock Banker;;;;;;;;;;;x
 b_east_varrock_bank_2;East Varrock Bank;East Varrock Bank;East Varrock Bank;;East Varrock Bank;;;;;;;;;x
@@ -287,12 +285,6 @@ b_north_west_barbarian_plains_2;North West Barbarian Plains;North West Barbarian
 b_north_west_barbarian_plains_2_adj;North West Barbarian Plainsian;;North West Barbarian Plainser;;;;;;;;;;;x
 b_north_west_barbarian_plains_3;North West Barbarian Plains;North West Barbarian Plains;North West Barbarian Plains;;North West Barbarian Plains;;;;;;;;;x
 b_north_west_barbarian_plains_3_adj;North West Barbarian Plainsian;;North West Barbarian Plainser;;;;;;;;;;;x
-b_sourh_of_draynor_jail;Sourh of Draynor Jail;Sourh of Draynor Jail;Sourh of Draynor Jail;;Sourh of Draynor Jail;;;;;;;;;x
-b_sourh_of_draynor_jail_adj;Sourh of Draynor Jailian;;Sourh of Draynor Jailer;;;;;;;;;;;x
-b_sourh_of_draynor_jail_2;Sourh of Draynor Jail;Sourh of Draynor Jail;Sourh of Draynor Jail;;Sourh of Draynor Jail;;;;;;;;;x
-b_sourh_of_draynor_jail_2_adj;Sourh of Draynor Jailian;;Sourh of Draynor Jailer;;;;;;;;;;;x
-b_sourh_of_draynor_jail_3;Sourh of Draynor Jail;Sourh of Draynor Jail;Sourh of Draynor Jail;;Sourh of Draynor Jail;;;;;;;;;x
-b_sourh_of_draynor_jail_3_adj;Sourh of Draynor Jailian;;Sourh of Draynor Jailer;;;;;;;;;;;x
 b_south_barbarian_path_plain;South Barbarian Path Plain;South Barbarian Path Plain;South Barbarian Path Plain;;South Barbarian Path Plain;;;;;;;;;x
 b_south_barbarian_path_plain_adj;South Barbarian Path Plainian;;South Barbarian Path Plainer;;;;;;;;;;;x
 b_south_barbarian_path_plain_2;South Barbarian Path Plain;South Barbarian Path Plain;South Barbarian Path Plain;;South Barbarian Path Plain;;;;;;;;;x
@@ -317,6 +309,12 @@ b_south_draynor_village_2;South Draynor Village;South Draynor Village;South Dray
 b_south_draynor_village_2_adj;South Draynor Villagean;;South Draynor Villager;;;;;;;;;;;x
 b_south_draynor_village_3;South Draynor Village;South Draynor Village;South Draynor Village;;South Draynor Village;;;;;;;;;x
 b_south_draynor_village_3_adj;South Draynor Villagean;;South Draynor Villager;;;;;;;;;;;x
+b_south_of_draynor_jail;South of Draynor Jail;South of Draynor Jail;South of Draynor Jail;;South of Draynor Jail;;;;;;;;;x
+b_south_of_draynor_jail_adj;South of Draynor Jailian;;South of Draynor Jailer;;;;;;;;;;;x
+b_south_of_draynor_jail_2;South of Draynor Jail;South of Draynor Jail;South of Draynor Jail;;South of Draynor Jail;;;;;;;;;x
+b_south_of_draynor_jail_2_adj;South of Draynor Jailian;;South of Draynor Jailer;;;;;;;;;;;x
+b_south_of_draynor_jail_3;South of Draynor Jail;South of Draynor Jail;South of Draynor Jail;;South of Draynor Jail;;;;;;;;;x
+b_south_of_draynor_jail_3_adj;South of Draynor Jailian;;South of Draynor Jailer;;;;;;;;;;;x
 b_south_of_the_circle;South of the Circle;South of the Circle;South of the Circle;;South of the Circle;;;;;;;;;x
 b_south_of_the_circle_adj;South of the Circlean;;South of the Circler;;;;;;;;;;;x
 b_south_of_the_circle_2;South of the Circle;South of the Circle;South of the Circle;;South of the Circle;;;;;;;;;x
@@ -377,18 +375,6 @@ b_the_quests_house_2;The Quest's House;The Quest's House;The Quest's House;;The 
 b_the_quests_house_2_adj;The Quests Housean;;The Quest's Houser;;;;;;;;;;;x
 b_the_quests_house_3;The Quest's House;The Quest's House;The Quest's House;;The Quest's House;;;;;;;;;x
 b_the_quests_house_3_adj;The Quests Housean;;The Quest's Houser;;;;;;;;;;;x
-b_varrock;Varrock;Varrock;Varrock;;Varrock;;;;;;;;;x
-b_varrock_adj;Varrockian;;varrocker;;;;;;;;;;;x
-b_varrock_2;Varrock;Varrock;Varrock;;Varrock;;;;;;;;;x
-b_varrock_2_adj;Varrockian;;varrocker;;;;;;;;;;;x
-b_varrock_3;Varrock;Varrock;Varrock;;Varrock;;;;;;;;;x
-b_varrock_3_adj;Varrockian;;varrocker;;;;;;;;;;;x
-b_varrock_4;Varrock;Varrock;Varrock;;Varrock;;;;;;;;;x
-b_varrock_4_adj;Varrockian;;varrocker;;;;;;;;;;;x
-b_varrock_5;Varrock;Varrock;Varrock;;Varrock;;;;;;;;;x
-b_varrock_5_adj;Varrockian;;varrocker;;;;;;;;;;;x
-b_varrock_6;Varrock;Varrock;Varrock;;Varrock;;;;;;;;;x
-b_varrock_6_adj;Varrockian;;varrocker;;;;;;;;;;;x
 b_varrock_anvils;Varrock Anvils;Varrock Anvils;Varrock Anvils;;Varrock Anvils;;;;;;;;;x
 b_varrock_anvils_adj;Varrock Anvilsian;;Varrock Anvilser;;;;;;;;;;;x
 b_varrock_anvils_2;Varrock Anvils;Varrock Anvils;Varrock Anvils;;Varrock Anvils;;;;;;;;;x
@@ -401,6 +387,16 @@ b_varrock_apothecary_2;Varrock Apothecary;Varrock Apothecary;Varrock Apothecary;
 b_varrock_apothecary_2_adj;Varrock Apothecarian;;Varrock Apothecarer;;;;;;;;;;;x
 b_varrock_apothecary_3;Varrock Apothecary;Varrock Apothecary;Varrock Apothecary;;Varrock Apothecary;;;;;;;;;x
 b_varrock_apothecary_3_adj;Varrock Apothecarian;;Varrock Apothecarer;;;;;;;;;;;x
+b_varrock_castle;Varrock Castle;Varrock Castle;Varrock Castle;;Varrock Castle;;;;;;;;;x
+b_varrock_castle_adj;Varrock Castlean;;Varrock Castler;;;;;;;;;;;x
+b_varrock_castle_2;Varrock Castle;Varrock Castle;Varrock Castle;;Varrock Castle;;;;;;;;;x
+b_varrock_castle_2_adj;Varrock Castlean;;Varrock Castler;;;;;;;;;;;x
+b_varrock_castle_3;Varrock Castle;Varrock Castle;Varrock Castle;;Varrock Castle;;;;;;;;;x
+b_varrock_castle_3_adj;Varrock Castlean;;Varrock Castler;;;;;;;;;;;x
+b_varrock_castle_4;Varrock Castle;Varrock Castle;Varrock Castle;;Varrock Castle;;;;;;;;;x
+b_varrock_castle_4_adj;Varrock Castlean;;Varrock Castler;;;;;;;;;;;x
+b_varrock_castle_5;Varrock Castle;Varrock Castle;Varrock Castle;;Varrock Castle;;;;;;;;;x
+b_varrock_castle_5_adj;Varrock Castlean;;Varrock Castler;;;;;;;;;;;x
 b_varrock_chainmail_store;Varrock Chainmail Store;Varrock Chainmail Store;Varrock Chainmail Store;;Varrock Chainmail Store;;;;;;;;;x
 b_varrock_chainmail_store_adj;Varrock Chainmail Storean;;Varrock Chainmail Storer;;;;;;;;;;;x
 b_varrock_chainmail_store_2;Varrock Chainmail Store;Varrock Chainmail Store;Varrock Chainmail Store;;Varrock Chainmail Store;;;;;;;;;x
@@ -471,8 +467,6 @@ b_west_grand_exchange_4;West Grand Exchange;West Grand Exchange;West Grand Excha
 b_west_grand_exchange_4_adj;West Grand Exchangean;;West Grand Exchanger;;;;;;;;;;;x
 b_west_grand_exchange_5;West Grand Exchange;West Grand Exchange;West Grand Exchange;;West Grand Exchange;;;;;;;;;x
 b_west_grand_exchange_5_adj;West Grand Exchangean;;West Grand Exchanger;;;;;;;;;;;x
-b_west_grand_exchange_6;West Grand Exchange;West Grand Exchange;West Grand Exchange;;West Grand Exchange;;;;;;;;;x
-b_west_grand_exchange_6_adj;West Grand Exchangean;;West Grand Exchanger;;;;;;;;;;;x
 b_west_varrock_bank;West Varrock Bank;West Varrock Bank;West Varrock Bank;;West Varrock Bank;;;;;;;;;x
 b_west_varrock_bank_adj;West Varrock Bankian;;West Varrock Banker;;;;;;;;;;;x
 b_west_varrock_bank_2;West Varrock Bank;West Varrock Bank;West Varrock Bank;;West Varrock Bank;;;;;;;;;x

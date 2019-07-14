@@ -1,0 +1,19 @@
+# c_varrock_castle
+
+# County Title
+title = c_varrock_castle
+
+# Settlements
+max_settlements = 5
+
+b_varrock_castle = castle
+#b_varrock_castle_2 = city
+#b_varrock_castle_3 = temple
+#b_varrock_castle_4 = castle
+#b_varrock_castle_5 = city
+
+# Misc
+culture = Norwegian
+religion = catholic
+
+#History

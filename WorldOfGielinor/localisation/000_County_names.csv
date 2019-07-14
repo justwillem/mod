@@ -93,8 +93,6 @@ c_north_varrock_lum_plains;North Varrock Lum Plains;North Varrock Lum Plains;Nor
 c_north_varrock_lum_plains_adj;North Varrock Lum Plainsian;;North Varrock Lum Plainser;;;;;;;;;;;x
 c_north_west_barbarian_plains;North West Barbarian Plains;North West Barbarian Plains;North West Barbarian Plains;;North West Barbarian Plains;;;;;;;;;x
 c_north_west_barbarian_plains_adj;North West Barbarian Plainsian;;North West Barbarian Plainser;;;;;;;;;;;x
-c_sourh_of_draynor_jail;Sourh of Draynor Jail;Sourh of Draynor Jail;Sourh of Draynor Jail;;Sourh of Draynor Jail;;;;;;;;;x
-c_sourh_of_draynor_jail_adj;Sourh of Draynor Jailian;;Sourh of Draynor Jailer;;;;;;;;;;;x
 c_south_barbarian_path_plain;South Barbarian Path Plain;South Barbarian Path Plain;South Barbarian Path Plain;;South Barbarian Path Plain;;;;;;;;;x
 c_south_barbarian_path_plain_adj;South Barbarian Path Plainian;;South Barbarian Path Plainer;;;;;;;;;;;x
 c_south_barbarian_plains;South Barbarian Plains;South Barbarian Plains;South Barbarian Plains;;South Barbarian Plains;;;;;;;;;x
@@ -103,6 +101,8 @@ c_south_draynor_courtyard;South Draynor Courtyard;South Draynor Courtyard;South 
 c_south_draynor_courtyard_adj;South Draynor Courtyardian;;South Draynor Courtyarder;;;;;;;;;;;x
 c_south_draynor_village;South Draynor Village;South Draynor Village;South Draynor Village;;South Draynor Village;;;;;;;;;x
 c_south_draynor_village_adj;South Draynor Villagean;;South Draynor Villager;;;;;;;;;;;x
+c_south_of_draynor_jail;South of Draynor Jail;South of Draynor Jail;South of Draynor Jail;;South of Draynor Jail;;;;;;;;;x
+c_south_of_draynor_jail_adj;South of Draynor Jailian;;South of Draynor Jailer;;;;;;;;;;;x
 c_south_of_the_circle;South of the Circle;South of the Circle;South of the Circle;;South of the Circle;;;;;;;;;x
 c_south_of_the_circle_adj;South of the Circlean;;South of the Circler;;;;;;;;;;;x
 c_south_tutorial_plains;South Tutorial Plains;South Tutorial Plains;South Tutorial Plains;;South Tutorial Plains;;;;;;;;;x
@@ -123,12 +123,12 @@ c_the_guides_house;The Guide's House;The Guide's House;The Guide's House;;The Gu
 c_the_guides_house_adj;The Guides Housean;;The Guide's Houser;;;;;;;;;;;x
 c_the_quests_house;The Quest's House;The Quest's House;The Quest's House;;The Quest's House;;;;;;;;;x
 c_the_quests_house_adj;The Quests Housean;;The Quest's Houser;;;;;;;;;;;x
-c_varrock;Varrock;Varrock;Varrock;;Varrock;;;;;;;;;x
-c_varrock_adj;Varrockian;;varrocker;;;;;;;;;;;x
 c_varrock_anvils;Varrock Anvils;Varrock Anvils;Varrock Anvils;;Varrock Anvils;;;;;;;;;x
 c_varrock_anvils_adj;Varrock Anvilsian;;Varrock Anvilser;;;;;;;;;;;x
 c_varrock_apothecary;Varrock Apothecary;Varrock Apothecary;Varrock Apothecary;;Varrock Apothecary;;;;;;;;;x
 c_varrock_apothecary_adj;Varrock Apothecarian;;Varrock Apothecarer;;;;;;;;;;;x
+c_varrock_castle;Varrock Castle;Varrock Castle;Varrock Castle;;Varrock Castle;;;;;;;;;x
+c_varrock_castle_adj;Varrock Castlean;;Varrock Castler;;;;;;;;;;;x
 c_varrock_chainmail_store;Varrock Chainmail Store;Varrock Chainmail Store;Varrock Chainmail Store;;Varrock Chainmail Store;;;;;;;;;x
 c_varrock_chainmail_store_adj;Varrock Chainmail Storean;;Varrock Chainmail Storer;;;;;;;;;;;x
 c_varrock_church;Varrock Church;Varrock Church;Varrock Church;;Varrock Church;;;;;;;;;x
