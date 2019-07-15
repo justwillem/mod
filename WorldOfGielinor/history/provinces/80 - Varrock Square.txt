@@ -11,7 +11,7 @@ b_varrock_square = castle
 #b_varrock_square_3 = temple
 
 # Misc
-culture = irish
+culture = varrockian
 religion = catholic
 
 #History

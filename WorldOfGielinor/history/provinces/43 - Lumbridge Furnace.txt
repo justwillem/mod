@@ -11,7 +11,7 @@ b_lumbridge_furnace = castle
 #b_lumbridge_furnace_3 = temple
 
 # Misc
-culture = irish
+culture = lummish
 religion = catholic
 
 #History

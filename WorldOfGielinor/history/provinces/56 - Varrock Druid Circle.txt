@@ -11,7 +11,7 @@ b_varrock_druid_circle = castle
 #b_varrock_druid_circle_3 = temple
 
 # Misc
-culture = irish
+culture = varrockian
 religion = catholic
 
 #History

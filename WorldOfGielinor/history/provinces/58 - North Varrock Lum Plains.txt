@@ -11,7 +11,7 @@ b_north_varrock_lum_plains = castle
 #b_north_varrock_lum_plains_3 = temple
 
 # Misc
-culture = irish
+culture = varrockian
 religion = catholic
 
 #History

@@ -12,7 +12,7 @@ b_edgeville = castle
 #b_edgeville_4 = castle
 
 # Misc
-culture = irish
+culture = varrockian
 religion = catholic
 
 #History

@@ -11,7 +11,7 @@ b_grand_exchange_ditch = castle
 #b_grand_exchange_ditch_3 = temple
 
 # Misc
-culture = irish
+culture = varrockian
 religion = catholic
 
 #History

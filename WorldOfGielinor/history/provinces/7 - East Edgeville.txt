@@ -10,7 +10,7 @@ b_east_edgeville = castle
 #b_east_edgeville_2 = city
 
 # Misc
-culture = irish
+culture = varrockian
 religion = catholic
 
 #History

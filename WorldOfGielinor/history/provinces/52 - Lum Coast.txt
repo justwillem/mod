@@ -11,7 +11,7 @@ b_lum_coast = castle
 #b_lum_coast_3 = temple
 
 # Misc
-culture = irish
+culture = varrockian
 religion = catholic
 
 #History

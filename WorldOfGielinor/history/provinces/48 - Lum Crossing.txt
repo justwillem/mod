@@ -11,7 +11,7 @@ b_lum_crossing = castle
 #b_lum_crossing_3 = temple
 
 # Misc
-culture = irish
+culture = lummish
 religion = catholic
 
 #History

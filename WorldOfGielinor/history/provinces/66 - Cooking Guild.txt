@@ -11,7 +11,7 @@ b_cooking_guild = castle
 #b_cooking_guild_3 = temple
 
 # Misc
-culture = irish
+culture = varrockian
 religion = catholic
 
 #History

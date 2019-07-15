@@ -11,7 +11,7 @@ b_south_varrock_guard_watch = castle
 #b_south_varrock_guard_watch_3 = temple
 
 # Misc
-culture = irish
+culture = varrockian
 religion = catholic
 
 #History

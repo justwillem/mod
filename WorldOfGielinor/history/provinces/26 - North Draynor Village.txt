@@ -11,7 +11,7 @@ b_north_draynor_village = castle
 #b_north_draynor_village_3 = temple
 
 # Misc
-culture = irish
+culture = draynorian
 religion = catholic
 
 #History

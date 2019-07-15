@@ -11,7 +11,7 @@ b_the_guides_house = castle
 #b_the_guides_house_3 = temple
 
 # Misc
-culture = irish
+culture = lummish
 religion = catholic
 
 #History

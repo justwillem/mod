@@ -11,7 +11,7 @@ b_grand_exchange_pathway = castle
 #b_grand_exchange_pathway_3 = temple
 
 # Misc
-culture = irish
+culture = varrockian
 religion = catholic
 
 #History

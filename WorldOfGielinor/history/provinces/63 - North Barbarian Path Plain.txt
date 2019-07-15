@@ -11,7 +11,7 @@ b_north_barbarian_path_plain = castle
 #b_north_barbarian_path_plain_3 = temple
 
 # Misc
-culture = irish
+culture = varrockian
 religion = catholic
 
 #History

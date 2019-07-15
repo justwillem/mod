@@ -11,7 +11,7 @@ b_lumbridge_herding_field = castle
 #b_lumbridge_herding_field_3 = temple
 
 # Misc
-culture = irish
+culture = lummish
 religion = catholic
 
 #History

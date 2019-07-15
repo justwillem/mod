@@ -11,7 +11,7 @@ b_barbarian_square = castle
 #b_barbarian_square_3 = temple
 
 # Misc
-culture = irish
+culture = barbarian
 religion = catholic
 
 #History

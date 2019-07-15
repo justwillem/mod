@@ -11,7 +11,7 @@ b_north_east_barbarian_plains = castle
 #b_north_east_barbarian_plains_3 = temple
 
 # Misc
-culture = irish
+culture = barbarian
 religion = catholic
 
 #History

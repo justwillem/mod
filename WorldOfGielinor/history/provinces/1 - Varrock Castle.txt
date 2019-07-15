@@ -13,7 +13,7 @@ b_varrock_castle = castle
 #b_varrock_castle_5 = city
 
 # Misc
-culture = irish
+culture = varrockian
 religion = catholic
 
 #History

@@ -11,7 +11,7 @@ b_south_draynor_courtyard = castle
 #b_south_draynor_courtyard_3 = temple
 
 # Misc
-culture = irish
+culture = vampire
 religion = catholic
 
 #History

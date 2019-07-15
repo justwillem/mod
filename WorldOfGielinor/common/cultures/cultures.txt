@@ -1,0 +1,368 @@
+# Do not change tags in here without changing every other reference to them.
+# If adding new groups or cultures, make sure they are unique.
+
+# Culture-specific opinion can be added to modifiers (E.G., norse_opinion = 5), but the modifier *has* to be defined in 00_modifier_definitions.txt as well. It also needs localisation. Works for groups as well
+
+# Culture modifiers: modifier (applies to provinces), character_modifier, and settlement modifiers.
+# The ID of the modifier can be defined here (E.G., modifier = modifier_name or character_modifier = modifier_name), while the effect of it must be defined in static_modifiers.txt, and the localisation in localisation. For the settlement modifiers you don't need to (and can't) define the ID; it defaults to culture name + settlement type. E.G., norse_temple
+
+# nomadic_in_alt_start = yes - Will be Nomadic if the "Tribal & Nomadic" option is taken in the alt-start generation
+
+
+#
+# culture list because im lazy find the cultures
+#
+#rellekkan
+#barbarian
+#varrockian
+#lummish
+#draynorian
+#vampire
+#goblin
+#
+#
+#
+
+
+
+fremennik = {
+	graphical_cultures = { westerngfx }
+	alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
+
+#Relleka culture
+	rellekkan = {
+		graphical_cultures = { norsegfx }
+		alternate_start = {
+			OR = {
+				year >= 1000
+				has_alternate_start_parameter = { key = culture value = full_random }
+			}
+		}
+
+		color = { 0.25 0.5 0.75 }
+
+		male_names = {
+			Albrikt_Albert Alf_Alf Algot Anders_Andrew Anund_Anund Arnbj�rn Arne_Arne Arnfast Asbj�rn_Asbj�rn Astrad Azur Bagge Balder_Balder Bengt_Benedict Bertil_Berthold Birger Bj�rn_Beorn Bo Borkvard Botulf_Botulf Brage_Brage Bror
+			Brynjolf Dag Dan Dyre Egil_Egil Einar_Einar Emund Erik_Erik Eskild Faste Fredrik_Frederick Filip_Philip Folke_Folke Frej_Frej Georg_George Greger_Gregory Grim_Grim Gudr�d_Gudr�d Gunnar_Gunnar Gustav Halsten Hans_Hans Harald_Harold
+			Helgi_Helge Henrik_Henry Hjalmar_Hjalmar Holmger H�kan_Hakon Inge_Ingolf Ingemar Ingvar_Ingvar Jedvard_Edward Johan_John Karl_Charles Kettil Kettilmund Klas_Nicholas Knut_Knut Kol Kolbj�rn Lars_Laurence Magnus_Magnus Markus_Marcus
+			Mats_Matthew Nils_Nicholas Niklas_Nicholas Odd_Odd Olaf_Olaf Orvar_Orvar Peder_Peter Ragnar_Rainer Rolf_Rolf R�rek_Rurik Ragnvald_Ragnvald S�mund_S�mund S�rkver Sigbj�rn Sigtrygg Sigurd_Sigurd Starkad_Starkad Sten_Sten Styrbj�rn Sune_Sune Sven_Sven
+			Sverker S�lvi_S�lve Thomas_Thomas Tjudmund_Tjudmund Toke_Toke Tolir Torbj�rn_Torbj�rn Tord_Tord Torbrand_Torbrand Torfinn_Torfinn Torkel_Torkel Torolf_Thorolf Torsten_Torsten Toste Totil Tyke Ulf_Ulf Valdemar_Vladimir �ke �sten_Eysteinn
+		}
+		female_names = {
+			Aleta Alfhild Alfridh_Alfridh Anna_Anna Asta_Asta Astrid_Astrid Beata Birgitta_Brigid Bothild_Bothild Cecilia_Cecilia Edla Elin Elisabet_Elizabeth Freja_Freja Gunhild_Gunhild Gyla Gurli Gytha_Gytha Hafrid
+			Helena_Helen Holmfrid Iliana Inga_Inge Ingeborg_Ingeborg Ingegerd_Ingegerd Ingfrid Ingrid_Ingrid Karin_Catherine Katarina_Catherine Kristina_Christina Linda Maer Malmfrid_Malmfrid
+			Margareta_Margaret M�rta_Martha Ragnfrid_Ragnfrid Ragnhild_Ragnhild Rikissa Saga Sara_Sarah Sigrid_Sigrid Sofia_Sophia Svanhild_Svanhild Thordis_Thordis Ulvhilde Ylva �sa_�sa
+		}
+
+
+		dukes_called_kings = yes
+
+		from_dynasty_prefix = "af "
+
+		male_patronym = "sson"
+		female_patronym = "sdotter"
+		prefix = no # The patronym is added as a suffix
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 80
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 50
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+
+		seafarer = yes
+	}
+	#Barbarian culture
+	barbarian = {
+		graphical_cultures = { norsegfx }
+		alternate_start = {
+			OR = {
+				year >= 1000
+				has_alternate_start_parameter = { key = culture value = full_random }
+			}
+		}
+
+		color = { 0.2 0.45 0.65 }
+
+		male_names = {
+			Anund_Anund Alv_Alf Arne_Arne Arnfinn Arnkjell Arnmod Arnvid Aslak Audun Balder_Balder B�rd Bj�rn_Beorn Eigil_Egil Eilif Einar_Einar Eirik_Erik Erlend Erling Eystein_Eysteinn Finn Frej_Frej
+			Grim_Grim Gudbrand Gudleik Gudmund_Gudmund Gudr�d_Gudr�d Gunnar_Gunnar Guttorm_Gorm Haldor Halfdan Halkjell Harald_Harold Helge_Helge H�kon_Hakon H�vard Inge_Ingolf Ivar_Ivar Jon_John K�re Kolbein Lodin
+			Magne_Magne Magnus_Magnus Odd_Odd Ogmund Olav_Olaf Orm_Orm Ossor Ottar_Ottar P�l_Paul Ragnar_Rainer Ragnvald_Ragnvald Rolf_Rolf Sigurd_Sigurd Skjalg Skofte Skule_Skule Svein_Sven Sverre S�mund_S�mund Torbj�rn_Torbj�rn Tord_Tord Tore
+			Torbrand_Torbrand Torfinn_Torfinn Torgeir_Torgeir Torgil_Torkel
+			Tormod Torolf_Thorolf Torstein_Torsten Trond Tryggve Ulv_Ulf Vigleik �le �mund �lver �ystein_Eysteinn
+		}
+		female_names = {
+			Anna_Anna Astrid_Astrid Brigida_Brigid Cecilia_Cecilia Eldrid Freja_Freja Gjertrud_Gertrude Gudrid Gudrun_Gudrun Gunnhild_Gunhild Gyda_Gytha Gyrid Haldora Homlaug Ingebj�rg_Ingeborg Ingjerd_Ingegerd Ingrid_Ingrid Jorunn
+			Karin_Catherine Kristina_Christina Margrete_Margaret Maria_Maria Martha_Martha Ragna Ragnfrid_Ragnfrid Ragnhild_Ragnhild Rannveig Sigrid_Sigrid Sn�frid Sunniva Svanhild_Svanhild Thora_Thora Thorborg Thordis_Thordis �se_�sa �shild �sta_Asta
+		}
+
+
+		dukes_called_kings = yes
+
+		from_dynasty_prefix = "av "
+
+		male_patronym = "sson"
+		female_patronym = "sdatter"
+		prefix = no
+
+		modifier = default_culture_modifier
+
+		seafarer = yes
+	}
+}
+
+
+misthalani = {
+	alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
+	graphical_cultures = { westerngfx }
+
+#Varrock culture
+
+	varrockian = {
+  	graphical_cultures = { englishgfx }
+
+  	color = { 0.8 0.2 0.2 }
+
+  	alternate_start = {
+    	OR = {
+      	year >= 1100
+      	has_alternate_start_parameter = { key = culture value = full_random }
+    	}
+  	}
+
+  # Does not exist in 1066 - is the result of cultural amalgamation between Saxon and Norman through events
+  male_names = {
+    Adam_Adam Alan_Alan Albert_Albert Alexander_Alexander Alfred Andrew_Andrew Anselm_Anselm Arnold_Arnold Arthur_Arthur Aubrey Christopher_Christopher David_David Edmund_Edmund Edward_Edward Eric_Erik Eustace_Eustace Fulk_Folke Geoffrey_Godfrey George_George Gerald_Gerald Gilbert_Gilbert
+    Godfrey_Godfrey Gregory_Gregory Guy_Guy Henry_Henry Hugh_Hugh Humphrey Jocelyn John_John Jordan_Jordan Laurence_Laurence Lionel_Lionel Mark_Marcus Martin_Martin Matthew_Matthew Maurice_Maurice Michael_Michael Nicholas_Nicholas Paul_Paul Peter_Peter Philip_Philip
+    Ralph_Ralph Randolph_Randolph Reginald_Reinhold Richard_Richard Robert_Robert Roger_Roger Simon_Simon Stephen_Stephen Theobald_Theobald Thomas_Thomas Waleran Walter_Walter William_William
+  }
+  female_names = {
+    Adela_Adela Adelaide_Adelaide Alice_Alice Amice Anne_Anna Aveline_Avelina Beatrice_Beatrice Blanche_Blanche Catherine_Catherine Cecilia_Cecilia Constance_Constance Edith_Edith Ela Eleanor_Eleanor Elizabeth_Elizabeth Emma_Emma Hawise Isabel_Elizabeth
+    Isabella_Elizabeth Joan_Joan Joanna_Joan Juliana_Juliana Mahaut_Matilda Margaret_Margaret Mary_Maria Matilda_Matilda Maud_Matilda Philippa_Philippa Sybilla_Sibylla
+  }
+  from_dynasty_prefix = "of "
+  bastard_dynasty_prefix = "Fitz"
+
+  modifier = default_culture_modifier
+  # Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+  pat_grf_name_chance = 30
+  mat_grf_name_chance = 10
+  father_name_chance = 25
+
+  # Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+  pat_grm_name_chance = 20
+  mat_grm_name_chance = 40
+  mother_name_chance = 5
+	}
+
+#Lumbridge culture
+	lummish = {
+		graphical_cultures = { celticgfx }
+
+		color = { 0.3 0.8 0.8 }
+
+		male_names = {
+			Aaron_Aaron Abb�n Abner_Abner Ab�l_Abel Adomn�n �ed_Hugh �edgen �educ�n �ed�n_Hugh �engus_Angus Affiath Ailbe Ailbrend Ailbrenn Ailch� Aildobur Ailgel �ilgen�n Ailgus
+			Ailill Ailp�n_Alwin Ainbchellach �indle Ainftech_Enfidaig Ainmere Airechtach Airfhind�n Airfhinn�n Airleid Airmedach Amalgaid Amla�b_Olaf Anfud�n Anl�n Anmchaid �nroth�n Ardgal
+			Ardgar Art_Arthur Artbran Artgal Artgus Artuc�n Art�r_Arthur Assiucc Augaire August�n_Augustine Aurthuile B�ethgalach B�eth�ne B�et�n B�o�ed Barrfhind Becc�n Berrach Bh�tair_Walter
+			Blathmacc Bran_Bran Brandub Brangen Bressal Brian_Brian Bricc�ne Bricc�ne Brocc�n Bruatur Bruide_Bride Br�naind Br�nainn Br�en B�aidb�o Caicher Cailech Cailte Cairbre_Carbrey
+			Cairell Caiss�ne Caiss�n Caiss�ne Canann Canann�n Carlus_Charles Cathal Cathal�n Cathassach Cathbad Cathm�el Cathm�l Cathnio Cathub Causant�n_Constantine Ca�lte Ca�nchomrac
+			Ca�ndelb�n Ceithernach Cellach Cellach�n Cenn�tig_Kentigern Cenn-F�elad Cennlach�n Cerball Cernach Cernach�n Cian Ciar�n Cill�ne Cill�ne Cin�ed_Kenneth Clemens_Clement Cobthach
+			Coirpre Colcu Colm�n_Nicholas Columb_Nicholas Comg�n Conaing Conall_Conall Conall�n Conamail Con�n_Conan Conchenn Conchobar Condla Congal Congalach Congus Conlang Conmac Conmacc
+			Conm�el Conm�l Conn_Conn Connla Conr� Constans_Constantius Constant�n_Constantine Corbb Corb�n Corcc�n Corcr�n Cormac Coscrach Co�lboth Crimthann Crundm�el_Crundm�el Cruinnm�el_Crundm�el
+			Cr�ch�n Cr�n�n Cuil�n Cuindles Cuircthe Cummascach C�em�n C�elbad C�elub C�em�n C�-Allaid C�-Bretan C�-Caech C�-Cen C�-Cen-M�thair C�-C�ar�in C�-Gamna C�-Ro� C�anu C�ldub C��n
+			C��n�n Dab�d_David Daigre Dalbach Dall�n Dani�l_Daniel Dathal Dathgus Demm�n Diarmait_Dermid Doedgus Domangart Domnall_Donald Donn Donnchad_Duncan Donncuan_Duncan Donndub�n Donngal
+			Donnuc�n_Duncan Do�lgus Drost Drust Dub-d�-Lethe Dubcenn Dubgenn Dubh_Duff Dubhghall_Dugald Dubhglais_Douglas Dubthach Dub�ed Dub�n Duiblesc Duibne Dun�ed D�lach D�cuill D�glach D�mmae
+			D�mmasach D�mm�n D�nertach D�nac�n D�nadach D�nchad_Duncan D�ngal D�ngalach D�nlang �amonn_Edmund Echmarcach �chtgal �chtgus Echthigern Echuid �icnech �icnech�n El�ir �nna �nri_Henry �ochad
+			Eochaid_Eochaid Eochu Eochuc�n �ogan_Eugene Erc_Eric Ercaid Erc�ed Erc�n �rem�n �rennach Ern�n Etersc�l E�gan_Eugene E�gan�n_Eugene Fachtna Fairchellach Fallaman Farann�n Fa�lbe Fearghus_Fergus
+			Fechtnach Fedach Fearchar_Farquhar Fedelmid Feirgil Felic Fer-Fugaill Feradach_Feradach Ferdomnach Fergal Fergus_Fergus Fiachnae Fianch� Findbarr Fingen Finguine Finn_Finn Finnac�n Finnbarr
+			Finnch� Finnlagh_Findlay Finnsnechtae Fintan Flaithbertach Flaithem Flaithem�n Flaithgus Flaithr� Flann Flannac�n Flannchad Flann�n Fogartach Folachtach Forann�n Forbassach Fothad Fothud
+			Fuacarta Fubthad Fuirechtach Fursu F�elcar F�elchad F�elch� F�eldobur F�elgus F�el�n F�elbe F�achnae F�adch� F�ngin F�nsnechta F�carta Gabr�n Garalt Garbith Gilla-�osa Gilla-Br�gte_Gilbert
+			Gilla-Coluim Gilla-Comg�in Gilla-Cr�st_Gilchrist Gilla-na-N�em Gilla-P�traic_Gilpatrick Gilla-Ruad_Gilroy Glaisiuc Glaschu Gl�n-Iairn Gofraid_Godfrey Gormac�n Gormgus Gorm�n Guaire G�eth�n
+			G�eth�ne G�sacht Iacob_Jacob Iarlaithe Imchad Indrechtach Ioseph_Joseph �omhar_Ivar Labraid Lachtnae Lachtn�n Lachtn�ne Laidcenn Laidgenn Laid�ne Laisr�n Lenn�n_Lennon Lethlobur Liam_William
+			Liber Lochlann Loingsech Lon�n Lorc�n Lugh_Leon Lugaid Lug�ed L�egaire L�ch�ne L�ch�ne L�eguire Mac-Laisre Mainch�ne Maine Manch�n Martan Mathgamain Matud�n Minch�n Mo-Chonna Mo-Lua M�enach
+			Morand Morann Mugr�n Muirchertach Muirec�n Muiredach_Murdoch Muirgius Murchad Murch� M�el-Anfaid M�el-Bresail M�el-Br�gte M�el-Cein M�el-Cian�in M�el-Ciar�in M�el-Coluim_Malcolm M�el-Corgis
+			M�el-Dubh_Maldoven M�el-D�in M�el-Fothartaig M�el-F�baill M�el-�osa_Malise M�el-M�ed�c M�el-Martain M�el-M�rda M�el-Muire_Malmure M�el-M�ch�l M�el-Petair M�el-P�traic M�el-Ruanaid M�el-Sechnaill
+			M�el-T�lai M�el�n M�enach M�thair M�ad�n Nadarchu Nannid Natfraech Natfraich Natsluaig Nechtan_Nathan Niall_Nigel Niallgus Niall�n Nuadu Odr�n �engus_Angus �enuc�n Oiss�ne Oiss�ne Olc�n �lchobar
+			Onch� Orthanach Oscar_Oscar P�traic_Patrick Petair_Peter Pilib_Philip P�l_Paul Proinsias_Francis Rechtabra Riac�n Riaguil Robartach Rogallach Rogellach Ruah_Roy Ruaidr�_Roderick Ruarcc Rumann
+			R�thach R�g�n R��n R�d�n R�nch� R�n�n_Ronan R�adac�n R�ad�n Scandal Scandl�n Scell�n Scolaige S�aghdha_Shaw S�afra_Godfrey S�amas_Jacob Se�n_John Sechnassach Selbach Sench�n Seo�n_John Sinach
+			Siothr�n_Godfrey Sl�b�ne Snedgus Sogan Somhairle_Somerled Suibne_Sweeny S�erbrethach S�r�n S�ig�ne S�tna S�tnae Tadg_Tadg Taithlech Talorc_Talore Talorc�n_Talorc�n Temn�n Tigernach Tigern�n
+			Tipraite Tomaltach Tom�s_Thomas Torcc�n Trenchad Trengus Tressach Tuathal�n Tuireann_Taran T�l�n T�la T�athal_Tuathal Ualgarg Ualan_Valentin Ualtar_Walter �amnach�n Uargal Uargalach Uargus
+			Uilliam_William Ult�n
+		}
+		female_names = {
+			Ablach �edammair Affraic_Euphemia A�binn Aibil�n_Eva Aileann �ine_Agnes Anlaith Ar�c Barrdub Ben-Laigen Ben-M�de Ben-Muman Ben-Ulad Brigit_Brigit  B�-F�il B�binn Cacht Caillech-Fhinn�in
+			Cainnech Caiss�ne Caitil�n_Catherine Ca�ntigern Ca�rech Cath�n Catr�ona_Catherine Cellach Ciar Cnes Coblaith_Cobflaith Cobflaith_Cobflaith Conchenn Cond�l Cr�n�ch Cr�stina_Christina Cumman
+			Deirdre Der-bForgaill_Devorguilla Derb�il Derborgaill_Devorguilla Der-Ilei_Derilla Der-Lugdach Dianaim Doriend Dub-Dil Dub-Essa Dub-Lemna Dubchoblaig Dubgilla D�insech D�nlaith Echrad �ibhleann
+			Eilionora_Eleanor Eithne_Eithne Ellbr�g Emer_Emer �ta�n �ua_Eva Euginia_Eugenia Fa�lenn Fedelm Finneacht Finnguala_Finnguala Flann Forbflaith F�ne Garb Gelg�is Gerr�c Gnathnad Gormflaith_Gormflaith
+			Gormlaith_Gormflaith Gr�inne Imag �te Lann Lasairf�ona Lathir Lerben Lerthan L�gach Lucia_Lucia Martha_Martha Mauda_Matilda Muadhnait_Mona Muirenn_Murron Muirgel_Muriel Muirne_Morna M�el-Mide
+			M�el-Muire_Malmure M�ire_Maria M�iread M�irgred_Margaret M�r_Mor M�r-Muman N�rbflaith Nuala_Finnguala �rlaith �rnat R�is_Ros Sadb Samthann Sc�thach S�bdann Selblaith Seonaid_Joan Sinech Siob�n_Joan
+			Sisuile Sl��ne_Slaine Sorcha_Sorcha Suaibsech S�erlaith S�tach S�thmaith Tailefhlaith Tailltiu Temair Tuathflaith T�mnat Uallach Uasal �na_Una
+		}
+
+		dukes_called_kings = yes
+
+		from_dynasty_prefix = "de "
+		male_patronym = "mac "
+		female_patronym = "nic "
+		prefix = yes
+
+		modifier = default_culture_modifier
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 15
+		father_name_chance = 5
+
+		pat_grm_name_chance = 30
+		mat_grm_name_chance = 15
+		mother_name_chance = 10
+	}
+
+#Draynor culture
+	draynorian = {
+		graphical_cultures = { celticgfx }
+
+		color = { 0.3 0.7 0.7 }
+
+		alternate_start = {
+			OR = {
+				year >= 800
+				has_alternate_start_parameter = { key = culture value = full_random }
+			}
+		}
+
+		male_names = {
+			Adam_Adam Alpin_Alwin Alan_Alan Alastair_Alexander Alexander_Alexander Andrew_Andrew
+			Angus_Angus Archibald_Archibald Arthur_Arthur Arran Aulay_Olaf Beathan Brian_Brian Brice_Brice Cailean_Nicholas Calum_Nicholas Carbrey_Carbrey Colban_Kolbein
+			Colin_Nicholas Conall_Conall Conan_Conan Constantine_Constantine David_David Dermid_Dermid Donald_Donald Douglas_Douglas Duff_Duff Dugald_Dugald
+			Duncan_Duncan Edgar_Edgar Edward_Edward Edwin_Edwin Eric_Eric Evander_Ivar Ewan_Eugene Farquhar_Farquhar Fergus_Fergus Fingal_Finn Findlay_Findlay Frang_Francis
+			Gavin_Gavin Gilbert_Gilbert Gilbride_Gilbert Gilchrist_Gilchrist Gillespie Gilpatrick_Gilpatrick Gilroy_Gilroy Giric_Gregory Glenn Godfrey_Godfrey Gregor_Gregory
+			Hamish_Jacob Hector_Hector Henry_Henry Hugh_Hugh Iain_John Indulf James_Jacob John_John Kenneth_Kenneth Kentigern_Kentigern Lachlan_Roland Laurence_Laurence Lennon_Lennon
+			Lulach Macbeth Magnus_Magnus Malcolm_Malcolm Maldoven_Maldoven Maldred_Maldred Malise_Malise Malmure_Malmure Maoilios Marcas_Marcus
+			Matad_Matad Matthew_Matthew Michael_Michael Morgan_Morgan Muir Mungo_Mungo Murdoch_Murdoch Murray Neil_Nigel Ninian_Ninian Oscar_Oscar
+			Patrick_Patrick Paul_Paul Peter_Peter Philip_Philip Radulf_Ralph Ranald_Reinhold Richard_Richard Robert_Robert Roderick_Roderick Ronald_Ragnvald Rory_Roderick Ross Roy_Roy
+			Shaw_Shaw Simon_Simon Somerled_Somerled Stephan_Stephen Sweeny_Sweeny Tadhg_Tadg Talore_Talore Thomas_Thomas Torquil_Torkel Uhtred_Uhtred Uisdean_Eysteinn Walan_Valentin
+			Waldeve_Waltheof Walter_Walter William_William
+		}
+		female_names = {
+			Ada Affraic_Euphemia Agnes_Agnes Aileen_Helen Alice_Alice Anna_Anna Annabella Aufrica_Euphemia Barabal_Barbara Beileag_Elizabeth Beitris_Beatrice Beathoc_Beatrice Bride_Brigit
+			Catriona_Catherine Cecilia_Cecilia Christina_Christina Deirdre_Deirdre Derilla_Derilla Dervorgilla_Dervorgilla Donada Donella
+			Edith_Edith Edna_Eithne Effie Eilionoir_Eleanor Eimhir_Emer Eithne_Eithne Ela Eleanor_Eleanor Elspeth_Elizabeth Euna Eva_Eva Fenella_Finnguala Fingola_Finnguala Flora_Flora
+			Forflissa Galiena Glenna Gormelia_Gormflaith Gruoch Helen_Helen Innes Iona Isabel_Elizabeth Isla Isobel_Elizabeth Jean_Joan Julia_Julia
+			Kenna Kentigerna Kirstin_Christina Lillias_Lillian Lorna Malmure_Malmure Maisie_Margaret Malina Margaret_Margaret Mariota_Mariota Marjory_Marjory Mary_Maria
+			Martha_Martha Marthoc_Marjory Maud_Matilda Maura_Maria Mirren_Murron Mor_Mor Morag_Mor Morna_Morna Moyna_Mona Muriel_Muriel
+			Murron_Murron Nuala_Finnguala Orabilia Peigi_Margaret Rhonda Rodina Ronalda_Ragnhild Ros_Ros Saundra_Alexandra Sheena_Joan Shona_Joan Sholto Slaine_Slaine Sorcha_Sorcha Una_Una
+		}
+
+		dukes_called_kings = yes
+
+		from_dynasty_prefix = "de "
+		prefix = yes
+
+		modifier = default_culture_modifier
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 15
+		father_name_chance = 5
+
+		pat_grm_name_chance = 30
+		mat_grm_name_chance = 15
+		mother_name_chance = 10
+
+		tribal_name = "TRIBAL_NAME_PROV_CLAN"
+	}
+
+
+
+
+
+}
+
+
+
+
+
+demonic = {
+	graphical_cultures = { chinesegfx }
+	alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
+
+
+	#Vampire culture
+		vampire = {
+			graphical_cultures = { chinesegfx }
+
+			color = { 0 0 0 }
+
+			alternate_start = {
+				OR = {
+					year >= 800
+					has_alternate_start_parameter = { key = culture value = full_random }
+				}
+			}
+
+			male_names = {
+				Adam_Adam Alpin_Alwin Alan_Alan Alastair_Alexander Alexander_Alexander Andrew_Andrew
+				Vamp Vampyrion Drakan Draynor
+			}
+			female_names = {
+				Vemp Vempyrien Draykenelle
+			}
+
+			dukes_called_kings = yes
+
+			from_dynasty_prefix = "de "
+			prefix = yes
+
+			modifier = default_culture_modifier
+			pat_grf_name_chance = 30
+			mat_grf_name_chance = 15
+			father_name_chance = 5
+
+			pat_grm_name_chance = 30
+			mat_grm_name_chance = 15
+			mother_name_chance = 10
+
+
+
+
+			monster = {
+				graphical_cultures = { indiangfx }
+				alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
+
+
+				#Goblin culture
+					goblin = {
+						graphical_cultures = { chinesegfx }
+
+						color = { 0 0 0 }
+
+						alternate_start = {
+							OR = {
+								year >= 800
+								has_alternate_start_parameter = { key = culture value = full_random }
+							}
+						}
+
+						male_names = {
+							Grekk Blekk Schtekk Günther
+						}
+						female_names = {
+							Flikk Tikk Belle
+						}
+
+						dukes_called_kings = yes
+
+						from_dynasty_prefix = "de "
+						prefix = yes
+
+						modifier = default_culture_modifier
+						pat_grf_name_chance = 30
+						mat_grf_name_chance = 15
+						father_name_chance = 5
+
+						pat_grm_name_chance = 30
+						mat_grm_name_chance = 15
+						mother_name_chance = 10

@@ -13,7 +13,7 @@ b_west_grand_exchange = castle
 #b_west_grand_exchange_5 = city
 
 # Misc
-culture = irish
+culture = varrockian
 religion = catholic
 
 #History

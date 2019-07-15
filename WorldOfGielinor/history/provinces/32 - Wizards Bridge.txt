@@ -11,7 +11,7 @@ b_wizards_bridge = castle
 #b_wizards_bridge_3 = temple
 
 # Misc
-culture = irish
+culture = varrockian
 religion = catholic
 
 #History

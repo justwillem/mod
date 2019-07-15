@@ -11,7 +11,7 @@ b_goblin_ghetto = castle
 #b_goblin_ghetto_3 = temple
 
 # Misc
-culture = irish
+culture = goblin
 religion = catholic
 
 #History

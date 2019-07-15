@@ -11,7 +11,7 @@ b_draynor_cross_deadwoods = castle
 #b_draynor_cross_deadwoods_3 = temple
 
 # Misc
-culture = irish
+culture = draynorian
 religion = catholic
 
 #History

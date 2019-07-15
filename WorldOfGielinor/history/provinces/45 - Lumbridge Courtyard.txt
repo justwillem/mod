@@ -11,7 +11,7 @@ b_lumbridge_courtyard = castle
 #b_lumbridge_courtyard_3 = temple
 
 # Misc
-culture = irish
+culture = lummish
 religion = catholic
 
 #History

@@ -11,7 +11,7 @@ b_edgeville_ditch = castle
 #b_edgeville_ditch_3 = temple
 
 # Misc
-culture = irish
+culture = varrockian
 religion = catholic
 
 #History

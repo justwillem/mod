@@ -7,14 +7,14 @@ e_gielinor = {
 	color2={ 255 255 20 }
 	
 	capital = 1 # c_varrock_castle
-	culture = irish
+	culture = varrockian
 	
 	k_misthalin = {
 		color={ 50 136 15 }
 		color2={ 255 255 255 }
 		
 		capital = 1 # c_varrock_castle
-		culture = irish
+		culture = varrockian
 		
 		d_upper_varrock = {
 			color={ 30 156 5 }

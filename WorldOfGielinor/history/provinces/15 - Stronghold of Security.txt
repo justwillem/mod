@@ -11,7 +11,7 @@ b_stronghold_of_security = castle
 #b_stronghold_of_security_3 = temple
 
 # Misc
-culture = irish
+culture = barbarian
 religion = catholic
 
 #History

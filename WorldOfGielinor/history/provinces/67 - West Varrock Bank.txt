@@ -11,7 +11,7 @@ b_west_varrock_bank = castle
 #b_west_varrock_bank_3 = temple
 
 # Misc
-culture = irish
+culture = varrockian
 religion = catholic
 
 #History

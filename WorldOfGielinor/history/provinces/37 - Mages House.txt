@@ -11,7 +11,7 @@ b_mages_house = castle
 #b_mages_house_3 = temple
 
 # Misc
-culture = irish
+culture = lummish
 religion = catholic
 
 #History

@@ -11,7 +11,7 @@ b_deadwoods = castle
 #b_deadwoods_3 = temple
 
 # Misc
-culture = irish
+culture = barbarian
 religion = catholic
 
 #History

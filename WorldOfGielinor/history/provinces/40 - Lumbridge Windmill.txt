@@ -11,7 +11,7 @@ b_lumbridge_windmill = castle
 #b_lumbridge_windmill_3 = temple
 
 # Misc
-culture = irish
+culture = lummish
 religion = catholic
 
 #History

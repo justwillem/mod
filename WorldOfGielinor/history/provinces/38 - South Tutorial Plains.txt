@@ -11,7 +11,7 @@ b_south_tutorial_plains = castle
 #b_south_tutorial_plains_3 = temple
 
 # Misc
-culture = irish
+culture = lummish
 religion = catholic
 
 #History

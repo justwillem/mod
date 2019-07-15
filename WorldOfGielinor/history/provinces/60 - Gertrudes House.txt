@@ -11,7 +11,7 @@ b_gertrudes_house = castle
 #b_gertrudes_house_3 = temple
 
 # Misc
-culture = irish
+culture = varrockian
 religion = catholic
 
 #History

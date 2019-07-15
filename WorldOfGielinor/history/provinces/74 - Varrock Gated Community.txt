@@ -11,7 +11,7 @@ b_varrock_gated_community = castle
 #b_varrock_gated_community_3 = temple
 
 # Misc
-culture = irish
+culture = varrockian
 religion = catholic
 
 #History

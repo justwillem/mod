@@ -11,7 +11,7 @@ b_varrock_chainmail_store = castle
 #b_varrock_chainmail_store_3 = temple
 
 # Misc
-culture = irish
+culture = varrockian
 religion = catholic
 
 #History

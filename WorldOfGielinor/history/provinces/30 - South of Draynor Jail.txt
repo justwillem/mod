@@ -11,7 +11,7 @@ b_south_of_draynor_jail = castle
 #b_south_of_draynor_jail_3 = temple
 
 # Misc
-culture = irish
+culture = draynorian
 religion = catholic
 
 #History

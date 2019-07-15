@@ -11,7 +11,7 @@ b_draynor_manor = castle
 #b_draynor_manor_3 = temple
 
 # Misc
-culture = irish
+culture = vampire
 religion = catholic
 
 #History

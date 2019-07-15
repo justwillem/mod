@@ -11,7 +11,7 @@ b_lumbridge_pub = castle
 #b_lumbridge_pub_3 = temple
 
 # Misc
-culture = irish
+culture = lummish
 religion = catholic
 
 #History

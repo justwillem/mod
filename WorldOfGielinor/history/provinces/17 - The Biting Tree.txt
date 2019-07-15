@@ -11,7 +11,7 @@ b_the_biting_tree = castle
 #b_the_biting_tree_3 = temple
 
 # Misc
-culture = irish
+culture = barbarian
 religion = catholic
 
 #History
