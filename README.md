@@ -35,12 +35,12 @@ To edit this mod, we must make use of programs other than the mod, and Crusaderk
 Photoshop, I use photoshop CS6, if you are student you may have a student's copy connected to your school e-mail. If not, you can purchase it here: https://www.adobe.com/creativecloud/plans.html?single_app=photoshop&promoid=695P7SPW&mv=other
 Though, if you don't have access to a copy, I would recommend you find some other software, as I would personally never willingly support corporate Adobe monetarily :D.
 
-        Nvidia's DDS file plugin for Photoshop: https://developer.nvidia.com/nvidia-texture-tools-adobe-photoshop#downloads
-            I assume there are ways to generate .DDS files on other programs, but you have to do your own research on that :) .
+      Nvidia's DDS file plugin for Photoshop: https://developer.nvidia.com/nvidia-texture-tools-adobe-photoshop#downloads
+      I assume there are ways to generate .DDS files on other programs, but you have to do your own research on that :) .
 
 Excel, since I am a student I have access to Office 365, chances are if you are a student or work for a company that needs a lot of IT services you have access to this too. I am simply not going to link a way to purchase Excel as I also have moral qualms about giving more than the bare minimum financial support to Microsoft. In any case you can also use OpenOffice Calc, though I think you need to download the entirety of OpenOffice to get to that point (So it's not unlike Microsoft Office).
 
-A text editor like Notepad++, though I use the program Atom in conjunction with GitHub, since that is the environment I have decided to commit to. 
+A text editor like Notepad++, though I use the program Atom in conjunction with GitHub, since that is the environment I have decided to commit to.
 
 
 #.BMP Files, .DDS Files and photoshop
