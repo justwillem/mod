@@ -1,0 +1,17 @@
+# c_lumbridge_barn
+
+# County Title
+title = c_lumbridge_barn
+
+# Settlements
+max_settlements = 3
+
+b_lumbridge_barn = castle
+#b_lumbridge_barn_2 = city
+#b_lumbridge_barn_3 = temple
+
+# Misc
+culture = irish
+religion = catholic
+
+#History

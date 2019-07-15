@@ -11,7 +11,7 @@ b_barbarian_square = castle
 #b_barbarian_square_3 = temple
 
 # Misc
-culture = Norwegian
+culture = irish
 religion = catholic
 
 #History

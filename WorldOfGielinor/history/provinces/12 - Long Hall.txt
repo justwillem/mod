@@ -11,7 +11,7 @@ b_long_hall = castle
 #b_long_hall_3 = temple
 
 # Misc
-culture = Norwegian
+culture = irish
 religion = catholic
 
 #History

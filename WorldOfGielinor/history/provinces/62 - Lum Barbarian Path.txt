@@ -1,0 +1,17 @@
+# c_lum_barbarian_path
+
+# County Title
+title = c_lum_barbarian_path
+
+# Settlements
+max_settlements = 3
+
+b_lum_barbarian_path = castle
+#b_lum_barbarian_path_2 = city
+#b_lum_barbarian_path_3 = temple
+
+# Misc
+culture = irish
+religion = catholic
+
+#History

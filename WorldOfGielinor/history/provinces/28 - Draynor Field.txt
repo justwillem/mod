@@ -1,0 +1,17 @@
+# c_draynor_field
+
+# County Title
+title = c_draynor_field
+
+# Settlements
+max_settlements = 3
+
+b_draynor_field = castle
+#b_draynor_field_2 = city
+#b_draynor_field_3 = temple
+
+# Misc
+culture = irish
+religion = catholic
+
+#History

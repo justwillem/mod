@@ -1,7 +1,32 @@
 #GIELINOR
 technology = {
 	titles = {
-		d_varrock
+		d_barbarian_path
+		d_barbarian_villiage
+		d_champions_guild
+		d_draynor_chokehold
+		d_draynor_cross
+		d_draynor_jail
+		d_draynor_manor
+		d_draynor_village
+		d_east_lumbridge
+		d_east_varrock
+		d_east_varrock_bank
+		d_edgeville
+		d_grand_exchange
+		d_lumbridge
+		d_lumbridge_path
+		d_south_varrock_guard_watch
+		d_stronghold_of_security
+		d_tutorial_island
+		d_upper_varrock
+		d_varrock_druid_circle
+		d_varrock_lum_plains
+		d_varrock_path
+		d_varrock_square
+		d_west_varrock_bank
+		d_west_varrock_guard_watch
+		d_wizards_tower
 	}
 	800 = {
 		military = 2.0

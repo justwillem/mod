@@ -15,79 +15,78 @@ province;red;green;blue;x;x
 14;234;188;214;South Barbarian Plains;x
 15;255;238;251;Stronghold of Security;x
 16;209;217;147;Barbarian Passageway;x
-17;1;2;2;PLACEHOLDER17;x
-18;241;255;186;The Biting Tree;x
-19;195;203;131;North Deadwoods;x
-20;188;199;103;Deadwoods;x
-21;247;81;81;Draynor Cross;x
-22;162;169;82;Draynor Cross Deadwoods;x
-23;69;37;49;North of Draynor Cross;x
-24;36;13;10;Draynor Manor;x
-25;30;10;10;North Draynor Courtyard;x
-26;23;3;3;South Draynor Courtyard;x
-27;136;44;44;North Draynor Village;x
-28;202;66;66;South Draynor Village;x
-29;166;54;54;Draynor Field;x
-30;183;188;37;Draynor Jail;x
-31;166;171;34;South of Draynor Jail;x
-32;137;142;28;Wizards Tower;x
-33;114;117;23;Wizards Bridge;x
-34;93;0;59;The Guides House;x
-35;213;58;157;The Chefs House;x
-36;247;0;157;The Quests House;x
-37;104;1;1;Bank and Chapel;x
-38;132;1;1;Mages House;x
-39;55;181;0;South Tutorial Plains;x
-40;94;0;0;Lumbridge Barn;x
-41;171;0;0;Lumbridge Windmill;x
-42;140;0;0;Lumbridge Path;x
-43;255;106;208;Lumbridge Herding Field;x
-44;63;0;0;Lumbridge Furnace;x
-45;77;0;0;Lumbridge Pub;x
-46;69;46;6;Lumbridge Courtyard;x
-47;62;44;13;Lumbridge Castle;x
-48;25;70;0;Goblin Ghetto;x
-49;165;107;32;Lum Crossing;x
-50;180;118;36;Lum Watermill;x
-51;228;113;35;Varrock Path;x
-52;196;118;41;Varrock Path Field;x
-53;2;2;2;PLACEHOLDER53;x
-54;122;205;142;Champions Guild;x
-55;93;205;142;Champions Guild Path;x
-56;64;74;61;Varrock South West Mines;x
-57;39;0;0;Varrock Druid Circle;x
-58;61;92;75;South of the Circle;x
-59;24;44;19;North Varrock Lum Plains;x
-60;32;51;19;South Varrock Lum Plains;x
-61;16;34;12;Gertrudes House;x
-62;36;56;31;East Varrock Lum Plains;x
-63;57;156;31;Lum Barbarian Path;x
-64;84;205;49;North Barbarian Path Plain;x
-65;14;38;7;South Barbarian Path Plain;x
-66;43;105;27;Barbarian Path;x
-67;142;135;94;Cooking Guild;x
-68;137;132;90;West Varrock Bank;x
-69;148;138;98;Grand Exchange Pathway;x
-70;67;76;58;West Varrock Guard Watch;x
-71;145;125;60;Varrock Anvils;x
-72;162;139;67;Varrock Apothecary;x
-73;155;133;64;South Varrock Guard Watch;x
-74;149;129;61;South Varrock Pub;x
-75;181;163;124;Varrock Gated Community;x
-76;137;118;57;East Varrock Temple;x
-77;171;154;116;East Varrock Teastall;x
-78;189;170;129;East Varrock Bank;x
-79;214;187;143;East Varrock Path;x
-80;161;147;110;Varrock Museum;x
-81;244;210;166;Varrock Square;x
-82;203;179;138;Varrock Chainmail Store;x
-83;12;0;103;North West Wilderness Sea;x
-84;40;28;131;West Wilderness Sea;x
-85;58;54;139;Misthalin Sea;x
-86;31;28;94;East Sea;x
-87;81;98;150;South Lum River;x
-88;78;95;147;South Lumbridge River;x
-89;75;91;144;North Lumbridge River;x
-90;71;86;140;Champions guild Lum River;x
-91;67;80;136;Misthaliani Lum river;x
-92;27;28;96;North Lum River;x
+17;241;255;186;The Biting Tree;x
+18;195;203;131;North Deadwoods;x
+19;188;199;103;Deadwoods;x
+20;247;81;81;Draynor Cross;x
+21;162;169;82;Draynor Cross Deadwoods;x
+22;69;37;49;North of Draynor Cross;x
+23;36;13;10;Draynor Manor;x
+24;30;10;10;North Draynor Courtyard;x
+25;23;3;3;South Draynor Courtyard;x
+26;136;44;44;North Draynor Village;x
+27;202;66;66;South Draynor Village;x
+28;166;54;54;Draynor Field;x
+29;183;188;37;Draynor Jail;x
+30;166;171;34;South of Draynor Jail;x
+31;137;142;28;Wizards Tower;x
+32;114;117;23;Wizards Bridge;x
+33;93;0;59;The Guides House;x
+34;213;58;157;The Chefs House;x
+35;247;0;157;The Quests House;x
+36;104;1;1;Bank and Chapel;x
+37;132;1;1;Mages House;x
+38;55;181;0;South Tutorial Plains;x
+39;94;0;0;Lumbridge Barn;x
+40;171;0;0;Lumbridge Windmill;x
+41;140;0;0;Lumbridge Path;x
+42;255;106;208;Lumbridge Herding Field;x
+43;63;0;0;Lumbridge Furnace;x
+44;77;0;0;Lumbridge Pub;x
+45;69;46;6;Lumbridge Courtyard;x
+46;62;44;13;Lumbridge Castle;x
+47;25;70;0;Goblin Ghetto;x
+48;165;107;32;Lum Crossing;x
+49;180;118;36;Lum Watermill;x
+50;228;113;35;Varrock Path;x
+51;196;118;41;Varrock Path Field;x
+52;219;122;46;Lum Coast;x
+53;122;205;142;Champions Guild;x
+54;93;205;142;Champions Guild Path;x
+55;64;74;61;Varrock South West Mines;x
+56;39;0;0;Varrock Druid Circle;x
+57;61;92;75;South of the Circle;x
+58;24;44;19;North Varrock Lum Plains;x
+59;32;51;19;South Varrock Lum Plains;x
+60;16;34;12;Gertrudes House;x
+61;36;56;31;East Varrock Lum Plains;x
+62;57;156;31;Lum Barbarian Path;x
+63;84;205;49;North Barbarian Path Plain;x
+64;14;38;7;South Barbarian Path Plain;x
+65;43;105;27;Barbarian Path;x
+66;142;135;94;Cooking Guild;x
+67;137;132;90;West Varrock Bank;x
+68;148;138;98;Grand Exchange Pathway;x
+69;67;76;58;West Varrock Guard Watch;x
+70;145;125;60;Varrock Anvils;x
+71;162;139;67;Varrock Apothecary;x
+72;155;133;64;South Varrock Guard Watch;x
+73;149;129;61;South Varrock Pub;x
+74;181;163;124;Varrock Gated Community;x
+75;137;118;57;East Varrock Temple;x
+76;171;154;116;East Varrock Teastall;x
+77;189;170;129;East Varrock Bank;x
+78;214;187;143;East Varrock Path;x
+79;161;147;110;Varrock Museum;x
+80;244;210;166;Varrock Square;x
+81;203;179;138;Varrock Chainmail Store;x
+82;12;0;103;North West Wilderness Sea;x
+83;40;28;131;West Wilderness Sea;x
+84;58;54;139;Misthalin Sea;x
+85;31;28;94;East Sea;x
+86;81;98;150;South Lum River;x
+87;78;95;147;South Lumbridge River;x
+88;75;91;144;North Lumbridge River;x
+89;71;86;140;Champions guild Lum River;x
+90;67;80;136;Misthaliani Lum river;x
+91;27;28;96;North Lum River;x

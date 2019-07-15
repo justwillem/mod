@@ -1,0 +1,17 @@
+# c_south_barbarian_path_plain
+
+# County Title
+title = c_south_barbarian_path_plain
+
+# Settlements
+max_settlements = 3
+
+b_south_barbarian_path_plain = castle
+#b_south_barbarian_path_plain_2 = city
+#b_south_barbarian_path_plain_3 = temple
+
+# Misc
+culture = irish
+religion = catholic
+
+#History

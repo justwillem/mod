@@ -1,0 +1,17 @@
+# c_south_draynor_courtyard
+
+# County Title
+title = c_south_draynor_courtyard
+
+# Settlements
+max_settlements = 3
+
+b_south_draynor_courtyard = castle
+#b_south_draynor_courtyard_2 = city
+#b_south_draynor_courtyard_3 = temple
+
+# Misc
+culture = irish
+religion = catholic
+
+#History

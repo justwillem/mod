@@ -11,7 +11,7 @@ b_barbarian_passageway = castle
 #b_barbarian_passageway_3 = temple
 
 # Misc
-culture = Norwegian
+culture = irish
 religion = catholic
 
 #History

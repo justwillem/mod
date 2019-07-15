@@ -13,7 +13,7 @@ b_east_grand_exchange = castle
 #b_east_grand_exchange_5 = city
 
 # Misc
-culture = Norwegian
+culture = irish
 religion = catholic
 
 #History

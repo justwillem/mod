@@ -11,7 +11,7 @@ b_south_barbarian_plains = castle
 #b_south_barbarian_plains_3 = temple
 
 # Misc
-culture = Norwegian
+culture = irish
 religion = catholic
 
 #History

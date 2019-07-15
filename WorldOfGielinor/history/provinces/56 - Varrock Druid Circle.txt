@@ -1,0 +1,17 @@
+# c_varrock_druid_circle
+
+# County Title
+title = c_varrock_druid_circle
+
+# Settlements
+max_settlements = 3
+
+b_varrock_druid_circle = castle
+#b_varrock_druid_circle_2 = city
+#b_varrock_druid_circle_3 = temple
+
+# Misc
+culture = irish
+religion = catholic
+
+#History

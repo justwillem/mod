@@ -1,0 +1,17 @@
+# c_south_of_draynor_jail
+
+# County Title
+title = c_south_of_draynor_jail
+
+# Settlements
+max_settlements = 3
+
+b_south_of_draynor_jail = castle
+#b_south_of_draynor_jail_2 = city
+#b_south_of_draynor_jail_3 = temple
+
+# Misc
+culture = irish
+religion = catholic
+
+#History

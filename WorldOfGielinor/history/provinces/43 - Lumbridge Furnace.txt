@@ -1,0 +1,17 @@
+# c_lumbridge_furnace
+
+# County Title
+title = c_lumbridge_furnace
+
+# Settlements
+max_settlements = 3
+
+b_lumbridge_furnace = castle
+#b_lumbridge_furnace_2 = city
+#b_lumbridge_furnace_3 = temple
+
+# Misc
+culture = irish
+religion = catholic
+
+#History
