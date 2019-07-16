@@ -326,6 +326,7 @@ demonic = {
 			mother_name_chance = 10
 
 }
+}
 
 
 monster = {
@@ -347,7 +348,7 @@ monster = {
 						}
 
 						male_names = {
-							Grekk Blekk Schtekk Günther
+							Grekk Blekk Schtekk Gunther
 						}
 						female_names = {
 							Flikk Tikk Belle
