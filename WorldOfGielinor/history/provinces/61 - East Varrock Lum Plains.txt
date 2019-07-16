@@ -12,6 +12,6 @@ b_east_varrock_lum_plains = castle
 
 # Misc
 culture = varrockian
-religion = catholic
+religion = saradominist
 
 #History

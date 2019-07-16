@@ -12,6 +12,6 @@ b_east_varrock_temple = castle
 
 # Misc
 culture = varrockian
-religion = catholic
+religion = saradominist
 
 #History

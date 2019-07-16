@@ -12,6 +12,6 @@ b_west_varrock_guard_watch = castle
 
 # Misc
 culture = varrockian
-religion = catholic
+religion = saradominist
 
 #History

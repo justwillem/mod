@@ -12,6 +12,6 @@ b_bank_and_chapel = castle
 
 # Misc
 culture = lummish
-religion = catholic
+religion = saradominist
 
 #History

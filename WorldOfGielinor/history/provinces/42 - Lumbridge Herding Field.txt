@@ -12,6 +12,6 @@ b_lumbridge_herding_field = castle
 
 # Misc
 culture = lummish
-religion = catholic
+religion = saradominist
 
 #History

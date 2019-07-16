@@ -12,6 +12,6 @@ b_draynor_field = castle
 
 # Misc
 culture = draynorian
-religion = catholic
+religion = saradominist
 
 #History

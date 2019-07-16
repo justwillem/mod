@@ -12,6 +12,6 @@ b_champions_guild_path = castle
 
 # Misc
 culture = varrockian
-religion = catholic
+religion = saradominist
 
 #History

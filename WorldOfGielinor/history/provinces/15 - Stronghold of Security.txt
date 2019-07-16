@@ -12,6 +12,6 @@ b_stronghold_of_security = castle
 
 # Misc
 culture = barbarian
-religion = catholic
+religion = saradominist
 
 #History

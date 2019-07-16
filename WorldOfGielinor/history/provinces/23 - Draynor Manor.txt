@@ -12,6 +12,6 @@ b_draynor_manor = castle
 
 # Misc
 culture = vampire
-religion = catholic
+religion = saradominist
 
 #History

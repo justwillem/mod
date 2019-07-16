@@ -12,6 +12,6 @@ b_lum_crossing = castle
 
 # Misc
 culture = lummish
-religion = catholic
+religion = saradominist
 
 #History

@@ -12,6 +12,6 @@ b_goblin_ghetto = castle
 
 # Misc
 culture = goblin
-religion = catholic
+religion = saradominist
 
 #History

@@ -12,6 +12,6 @@ b_deadwoods = castle
 
 # Misc
 culture = barbarian
-religion = catholic
+religion = saradominist
 
 #History

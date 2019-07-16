@@ -1,0 +1,76 @@
+# Religion-specific opinion can be added to modifiers (E.G., norse_pagan_opinion = 5), but the modifier *has* to be defined in 00_modifier_definitions.txt as well. It also needs localisation. Works for groups as well
+
+# join_crusade_if_bordering_hostile = yes # The AI won't refrain from joining a crusade simply because it borders a heathen/heretic realm
+
+# This trigger defines who can see a character's secret religion. The character with the secret religion is FROM, while the viewer is ROOT
+# Characters can always see their own secret religion. The observer can see all secret religions
+secret_religion_visibility_trigger = {
+	secret_religion = FROM
+}
+
+# women_can_take_consorts = yes # If set, women can take consorts as well, not just men. Defaults to "no". Has no effect if max_consorts is 0
+# men_can_take_consorts = no # If set, men cannot take consorts any more. Defaults to "yes". Has no effect if max_consorts is 0
+# male_temple_holders = no # If set to no, men cannot hold temples. Defaults to "yes". You might need to update your law scripts for this to fully work (see trigger "religion_allows_male_temple_holders")
+
+major_gods = {
+	has_coa_on_barony_only = yes
+	graphical_culture = westerngfx
+	#crusade_cb = crusade
+	playable = yes
+	ai_peaceful = yes # Will make Hordes lose their super aggressiveness
+
+	ai_convert_same_group = 2 # always try to convert
+	ai_convert_other_group = 2 # always try to convert
+
+	color = { 0.8 0.8 0.6 }
+
+	# Names given only to Saradominist characters (base names)
+	male_names = {
+		Andrew Antoninus Bartolomeus Benedict Christian Christopher Clement Constantine David Demetrius Eustace George Gregory
+		Hans Isaac Joakim Jacob John Jordan Joseph Laurence Magnus Marcus Martin Matthew Michael Nicholas Patrick Paul Peter Philip
+		Salvador Samuel Sebastian Simon Stephen Thomas Abraham Alexander Daniel Jesus Job Joshua Cyrus Luke Zachariah
+	}
+	female_names = {
+		Anna Beatrice Benedicta Brigid Catherine Cecilia Christina Clementia Constance Dorothy Elisabeth Joan Judith Juliana Helen
+		Magdalena Margaret Maria Marine Patricia Philippa Rachel
+		Sarah Sophia Stephania
+	}
+
+	saradominist = {
+		graphical_culture = westerngfx
+
+		icon = 2
+		heresy_icon = 7
+
+		color = { 0.7 0 0.5 }
+
+		crusade_name = CRUSADE
+		scripture_name = THE_HOLY_BOOK
+		priest_title = PRIEST
+
+		high_god_name = SARADOMIN
+
+		god_names = {
+			SARADOMIN GOD_OF_LIGHT GOD_OF_WISDOM
+		}
+
+		evil_god_names = {
+			ZAMORAK THE_SCOURGE
+		}
+
+		autocephaly = yes
+		pentarchy = yes
+		can_excommunicate = yes
+		can_grant_divorce = yes
+		can_grant_invasion_cb = invasion
+		can_call_crusade = no
+		priests_can_inherit = no
+
+		can_retire_to_monastery = yes
+
+		religious_clothing_head = 2
+		religious_clothing_priest = 2
+
+#		intermarry = guthixian
+
+	}

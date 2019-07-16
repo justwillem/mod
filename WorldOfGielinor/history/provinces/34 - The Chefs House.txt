@@ -12,6 +12,6 @@ b_the_chefs_house = castle
 
 # Misc
 culture = lummish
-religion = catholic
+religion = saradominist
 
 #History

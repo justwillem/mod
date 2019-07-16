@@ -13,6 +13,6 @@ b_edgeville = castle
 
 # Misc
 culture = varrockian
-religion = catholic
+religion = saradominist
 
 #History

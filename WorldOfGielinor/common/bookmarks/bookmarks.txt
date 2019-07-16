@@ -3,7 +3,7 @@
 bm_the_fifth_age = {
 	name = "BM_THE_FIFTH_AGE_ERA"
 	desc = "BM_THE_FIFTH_AGE_ERA_DESC"
-	date = 1066.1.1
+	date = 1169.1.1
 
 	era = yes						## Will be shown on Era screen.
 	picture = GFX_pick_era_image_3
@@ -11,7 +11,7 @@ bm_the_fifth_age = {
 
 	selectable_character = {
 		id = 1 # Willem
-		age = 26
+		age = 20
 		name = ERA_CHAR_NAME_1
 		title = d_upper_varrock
 		title_name = d_upper_varrock
@@ -20,7 +20,7 @@ bm_the_fifth_age = {
 			dna=ageaoepdfpe
 			properties = fj0dcd000000
 			religion="catholic"
-			culture="varrockian"
+			culture="barbarian"
 			government = feudal_government
 			dynasty=0
 		}

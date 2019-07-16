@@ -12,6 +12,6 @@ b_south_draynor_courtyard = castle
 
 # Misc
 culture = vampire
-religion = catholic
+religion = saradominist
 
 #History

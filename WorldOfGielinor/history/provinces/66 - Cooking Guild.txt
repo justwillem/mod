@@ -12,6 +12,6 @@ b_cooking_guild = castle
 
 # Misc
 culture = varrockian
-religion = catholic
+religion = saradominist
 
 #History

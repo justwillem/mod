@@ -12,6 +12,6 @@ b_north_barbarian_path_plain = castle
 
 # Misc
 culture = varrockian
-religion = catholic
+religion = saradominist
 
 #History

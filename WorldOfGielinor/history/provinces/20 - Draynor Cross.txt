@@ -12,6 +12,6 @@ b_draynor_cross = castle
 
 # Misc
 culture = draynorian
-religion = catholic
+religion = saradominist
 
 #History

@@ -12,6 +12,6 @@ b_north_draynor_village = castle
 
 # Misc
 culture = draynorian
-religion = catholic
+religion = saradominist
 
 #History

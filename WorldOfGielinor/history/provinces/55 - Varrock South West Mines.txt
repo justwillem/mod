@@ -12,6 +12,6 @@ b_varrock_south_west_mines = castle
 
 # Misc
 culture = varrockian
-religion = catholic
+religion = saradominist
 
 #History

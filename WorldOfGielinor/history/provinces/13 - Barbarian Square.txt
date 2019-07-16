@@ -12,6 +12,6 @@ b_barbarian_square = castle
 
 # Misc
 culture = barbarian
-religion = catholic
+religion = saradominist
 
 #History

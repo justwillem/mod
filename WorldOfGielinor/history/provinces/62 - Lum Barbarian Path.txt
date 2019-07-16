@@ -12,6 +12,6 @@ b_lum_barbarian_path = castle
 
 # Misc
 culture = varrockian
-religion = catholic
+religion = saradominist
 
 #History

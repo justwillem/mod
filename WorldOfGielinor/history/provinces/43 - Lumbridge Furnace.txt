@@ -12,6 +12,6 @@ b_lumbridge_furnace = castle
 
 # Misc
 culture = lummish
-religion = catholic
+religion = saradominist
 
 #History

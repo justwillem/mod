@@ -12,6 +12,6 @@ b_south_tutorial_plains = castle
 
 # Misc
 culture = lummish
-religion = catholic
+religion = saradominist
 
 #History

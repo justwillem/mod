@@ -12,6 +12,6 @@ b_the_biting_tree = castle
 
 # Misc
 culture = barbarian
-religion = catholic
+religion = saradominist
 
 #History

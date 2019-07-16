@@ -12,6 +12,6 @@ b_varrock_druid_circle = castle
 
 # Misc
 culture = varrockian
-religion = catholic
+religion = saradominist
 
 #History

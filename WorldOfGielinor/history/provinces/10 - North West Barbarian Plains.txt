@@ -12,6 +12,6 @@ b_north_west_barbarian_plains = castle
 
 # Misc
 culture = barbarian
-religion = catholic
+religion = saradominist
 
 #History

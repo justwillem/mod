@@ -12,6 +12,6 @@ b_south_of_draynor_jail = castle
 
 # Misc
 culture = draynorian
-religion = catholic
+religion = saradominist
 
 #History

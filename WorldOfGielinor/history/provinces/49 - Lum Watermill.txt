@@ -12,6 +12,6 @@ b_lum_watermill = castle
 
 # Misc
 culture = lummish
-religion = catholic
+religion = saradominist
 
 #History

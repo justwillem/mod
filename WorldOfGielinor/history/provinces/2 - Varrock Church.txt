@@ -12,6 +12,6 @@ b_varrock_church = castle
 
 # Misc
 culture = varrockian
-religion = catholic
+religion = saradominist
 
 #History
