@@ -335,7 +335,7 @@ monster = {
 
 				#Goblin culture
 					goblin = {
-						graphical_cultures = { chinesegfx }
+						graphical_cultures = { indiangfx }
 
 						color = { 0.1 0.1 0.1 }
 
