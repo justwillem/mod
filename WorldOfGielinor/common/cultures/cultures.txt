@@ -325,10 +325,10 @@ demonic = {
 			mat_grm_name_chance = 15
 			mother_name_chance = 10
 
+}
 
 
-
-			monster = {
+monster = {
 				graphical_cultures = { indiangfx }
 				alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
 
@@ -366,3 +366,5 @@ demonic = {
 						pat_grm_name_chance = 30
 						mat_grm_name_chance = 15
 						mother_name_chance = 10
+}
+}
