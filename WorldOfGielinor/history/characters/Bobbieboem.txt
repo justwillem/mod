@@ -1,6 +1,0 @@
-3 = {
-    name=Bobbieboem
-    dynasty=752
-
-    religion=catholic
-    culture=barbarian

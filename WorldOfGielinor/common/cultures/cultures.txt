@@ -337,7 +337,7 @@ demonic = {
 					goblin = {
 						graphical_cultures = { chinesegfx }
 
-						color = { 0 0 0 }
+						color = { 0.1 0.1 0.1 }
 
 						alternate_start = {
 							OR = {
