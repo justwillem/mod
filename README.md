@@ -4,7 +4,11 @@ This is a user modification project using the Paradox Game Crusader Kings 2, whi
 Two days ago, that is 2019-07-08, I had no idea how to start a user modification and have now moved my project to GitHub which I admittedly do not know how to use, but that's all in the learning process I assume.
 
 
-It is my hope that eventually someone with more experience in user modification could contact me and help me and contribute in realizing my project so it can eventually be enjoyed by everybody.
+Since 15-07-2019, I have been in regular contact with Steam user CourtDoctor and he has been helping with this project in terms of troubleshooting and he made a application to more quickly assign titles to characters. 
+
+The mod is still in its early stages and I am always on the outlook for people experienced in modding or OSRS lore so that we can increase the quality and the speed of the mod to be at a satisfying level. 
+
+You may contact me on discord: https://discord.gg/4uhmP58, or steam: https://steamcommunity.com/id/popcorntree/
 
 #END INTRO  
 
@@ -16,7 +20,7 @@ THIS USER-MODIFICATION PROJECT IS CURRENTLY HOSTED AT: https://github.com/justwi
 1. Download the mod, hit the green button on the right named 'Clone or download', download ZIP and you will get the file 'mod-master.zip' in your download folder.
 2. Extract the contents of 'mod-master.zip' to your paradox mod folder. Usually placed in: C:\Users\me\Documents\Paradox Interactive\Crusader Kings II\mod
 Note: Only the folder and .mod file is necessary for playtesting.
-3. Open ck2game.exe, open the mod tab and check 'WorldOfGielinor'.
+3. Open ck2game.exe, open the mod tab and check 'World of Gielinor'.
 4. Enjoy.
 
 
@@ -24,7 +28,11 @@ Note: Only the folder and .mod file is necessary for playtesting.
 
 This mod could not be written if it weren't for ParadoxUsername and GitHub username: JonStryker, as the foundation of my work comes from his guide on how to make a Total Conversion Mod.
         You can find that guide here: https://forum.paradoxplaza.com/forum/index.php?threads/guide-to-total-conversion-map-modding-clans-of-ireland.801599/
+I ought also extend a hand to the authors of the various Crusader Kings 2 Wiki, especially those relating to modding. https://ck2.paradoxwikis.com/Modding
 
+For information of the OSRS lore I base much of the knowledge on the OSRS wikis, oldschool.runescape.wiki, and oldschool.runescape.fandom.com/wiki
+
+Steam user CourtDoctor has been very generous with their time and has developed an app that continues to be helpful for developing this mod, so I thought I ought to mention that here. It helps with assigning history\titles with history\characters https://github.com/Cundhi/CharsTitles/releases
 
 #Installed programs that are very nice to have:
 
