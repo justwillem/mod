@@ -16,6 +16,298 @@ e_gielinor = {
 		capital = 1 # c_varrock_castle
 		culture = varrockian
 		
+		c_varrock_castle = { # 1
+			color={ 20 166 0 }
+			color2={ 255 255 255 }
+			
+			b_varrock_castle = {
+			}
+			b_varrock_castle_2 = {
+			}
+			b_varrock_castle_3 = {
+			}
+			b_varrock_castle_4 = {
+			}
+			b_varrock_castle_5 = {
+			}
+		}
+		c_bank_and_chapel = { # 36
+			color={ 104 1 1 }
+			color2={ 255 255 255 }
+			
+			b_bank_and_chapel = {
+			}
+			b_bank_and_chapel_2 = {
+			}
+			b_bank_and_chapel_3 = {
+			}
+		}
+		c_barbarian_passageway = { # 16
+			color={ 209 217 147 }
+			color2={ 255 255 255 }
+			
+			b_barbarian_passageway = {
+			}
+			b_barbarian_passageway_2 = {
+			}
+			b_barbarian_passageway_3 = {
+			}
+		}
+		c_barbarian_path = { # 65
+			color={ 43 105 27 }
+			color2={ 255 255 255 }
+			
+			b_barbarian_path = {
+			}
+			b_barbarian_path_2 = {
+			}
+			b_barbarian_path_3 = {
+			}
+		}
+		c_barbarian_square = { # 13
+			color={ 255 204 242 }
+			color2={ 255 255 255 }
+			
+			b_barbarian_square = {
+			}
+			b_barbarian_square_2 = {
+			}
+			b_barbarian_square_3 = {
+			}
+		}
+		c_champions_guild = { # 53
+			color={ 122 205 142 }
+			color2={ 255 255 255 }
+			
+			b_champions_guild = {
+			}
+			b_champions_guild_2 = {
+			}
+			b_champions_guild_3 = {
+			}
+		}
+		c_champions_guild_path = { # 54
+			color={ 93 205 142 }
+			color2={ 255 255 255 }
+			
+			b_champions_guild_path = {
+			}
+			b_champions_guild_path_2 = {
+			}
+			b_champions_guild_path_3 = {
+			}
+		}
+		c_cooking_guild = { # 66
+			color={ 142 135 94 }
+			color2={ 255 255 255 }
+			
+			b_cooking_guild = {
+			}
+			b_cooking_guild_2 = {
+			}
+			b_cooking_guild_3 = {
+			}
+		}
+		c_deadwoods = { # 19
+			color={ 188 199 103 }
+			color2={ 255 255 255 }
+			
+			b_deadwoods = {
+			}
+			b_deadwoods_2 = {
+			}
+			b_deadwoods_3 = {
+			}
+		}
+		c_draynor_cross = { # 20
+			color={ 247 81 81 }
+			color2={ 255 255 255 }
+			
+			b_draynor_cross = {
+			}
+			b_draynor_cross_2 = {
+			}
+			b_draynor_cross_3 = {
+			}
+		}
+		c_draynor_cross_deadwoods = { # 21
+			color={ 162 169 82 }
+			color2={ 255 255 255 }
+			
+			b_draynor_cross_deadwoods = {
+			}
+			b_draynor_cross_deadwoods_2 = {
+			}
+			b_draynor_cross_deadwoods_3 = {
+			}
+		}
+		c_draynor_field = { # 28
+			color={ 166 54 54 }
+			color2={ 255 255 255 }
+			
+			b_draynor_field = {
+			}
+			b_draynor_field_2 = {
+			}
+			b_draynor_field_3 = {
+			}
+		}
+		c_draynor_jail = { # 29
+			color={ 183 188 37 }
+			color2={ 255 255 255 }
+			
+			b_draynor_jail = {
+			}
+			b_draynor_jail_2 = {
+			}
+			b_draynor_jail_3 = {
+			}
+		}
+		c_draynor_manor = { # 23
+			color={ 36 13 10 }
+			color2={ 255 255 255 }
+			
+			b_draynor_manor = {
+			}
+			b_draynor_manor_2 = {
+			}
+			b_draynor_manor_3 = {
+			}
+		}
+		c_east_edgeville = { # 7
+			color={ 20 68 11 }
+			color2={ 255 255 255 }
+			
+			b_east_edgeville = {
+			}
+			b_east_edgeville_2 = {
+			}
+		}
+		c_east_grand_exchange = { # 5
+			color={ 15 109 3 }
+			color2={ 255 255 255 }
+			
+			b_east_grand_exchange = {
+			}
+			b_east_grand_exchange_2 = {
+			}
+			b_east_grand_exchange_3 = {
+			}
+			b_east_grand_exchange_4 = {
+			}
+			b_east_grand_exchange_5 = {
+			}
+		}
+		c_east_varrock_bank = { # 77
+			color={ 189 170 129 }
+			color2={ 255 255 255 }
+			
+			b_east_varrock_bank = {
+			}
+			b_east_varrock_bank_2 = {
+			}
+			b_east_varrock_bank_3 = {
+			}
+		}
+		c_east_varrock_lum_plains = { # 61
+			color={ 36 56 31 }
+			color2={ 255 255 255 }
+			
+			b_east_varrock_lum_plains = {
+			}
+			b_east_varrock_lum_plains_2 = {
+			}
+			b_east_varrock_lum_plains_3 = {
+			}
+		}
+		c_east_varrock_path = { # 78
+			color={ 214 187 143 }
+			color2={ 255 255 255 }
+			
+			b_east_varrock_path = {
+			}
+			b_east_varrock_path_2 = {
+			}
+			b_east_varrock_path_3 = {
+			}
+		}
+		c_east_varrock_teastall = { # 76
+			color={ 171 154 116 }
+			color2={ 255 255 255 }
+			
+			b_east_varrock_teastall = {
+			}
+			b_east_varrock_teastall_2 = {
+			}
+			b_east_varrock_teastall_3 = {
+			}
+		}
+		c_east_varrock_temple = { # 75
+			color={ 137 118 57 }
+			color2={ 255 255 255 }
+			
+			b_east_varrock_temple = {
+			}
+			b_east_varrock_temple_2 = {
+			}
+			b_east_varrock_temple_3 = {
+			}
+		}
+		c_gertrudes_house = { # 60
+			color={ 16 34 12 }
+			color2={ 255 255 255 }
+			
+			b_gertrudes_house = {
+			}
+			b_gertrudes_house_2 = {
+			}
+			b_gertrudes_house_3 = {
+			}
+		}
+		c_goblin_ghetto = { # 47
+			color={ 25 70 0 }
+			color2={ 255 255 255 }
+			
+			b_goblin_ghetto = {
+			}
+			b_goblin_ghetto_2 = {
+			}
+			b_goblin_ghetto_3 = {
+			}
+		}
+		c_grand_exchange_pathway = { # 68
+			color={ 148 138 98 }
+			color2={ 255 255 255 }
+			
+			b_grand_exchange_pathway = {
+			}
+			b_grand_exchange_pathway_2 = {
+			}
+			b_grand_exchange_pathway_3 = {
+			}
+		}
+		c_lum_barbarian_path = { # 62
+			color={ 57 156 31 }
+			color2={ 255 255 255 }
+			
+			b_lum_barbarian_path = {
+			}
+			b_lum_barbarian_path_2 = {
+			}
+			b_lum_barbarian_path_3 = {
+			}
+		}
+		c_lum_coast = { # 52
+			color={ 219 122 46 }
+			color2={ 255 255 255 }
+			
+			b_lum_coast = {
+			}
+			b_lum_coast_2 = {
+			}
+			b_lum_coast_3 = {
+			}
+		}
 		d_upper_varrock = {
 			color={ 30 156 5 }
 			color2={ 255 255 255 }
@@ -64,6 +356,617 @@ e_gielinor = {
 				}
 				b_varrock_ditch_3 = {
 				}
+			}
+		}
+		c_edgeville = { # 9
+			color={ 45 105 24 }
+			color2={ 255 255 255 }
+			
+			b_edgeville = {
+			}
+			b_edgeville_2 = {
+			}
+			b_edgeville_3 = {
+			}
+			b_edgeville_4 = {
+			}
+		}
+		c_edgeville_ditch = { # 8
+			color={ 35 77 21 }
+			color2={ 255 255 255 }
+			
+			b_edgeville_ditch = {
+			}
+			b_edgeville_ditch_2 = {
+			}
+			b_edgeville_ditch_3 = {
+			}
+		}
+		c_grand_exchange_ditch = { # 4
+			color={ 34 66 23 }
+			color2={ 255 255 255 }
+			
+			b_grand_exchange_ditch = {
+			}
+			b_grand_exchange_ditch_2 = {
+			}
+			b_grand_exchange_ditch_3 = {
+			}
+		}
+		c_long_hall = { # 12
+			color={ 253 132 223 }
+			color2={ 255 255 255 }
+			
+			b_long_hall = {
+			}
+			b_long_hall_2 = {
+			}
+			b_long_hall_3 = {
+			}
+		}
+		c_lum_crossing = { # 48
+			color={ 165 107 32 }
+			color2={ 255 255 255 }
+			
+			b_lum_crossing = {
+			}
+			b_lum_crossing_2 = {
+			}
+			b_lum_crossing_3 = {
+			}
+		}
+		c_lum_watermill = { # 49
+			color={ 180 118 36 }
+			color2={ 255 255 255 }
+			
+			b_lum_watermill = {
+			}
+			b_lum_watermill_2 = {
+			}
+			b_lum_watermill_3 = {
+			}
+		}
+		c_lumbridge_barn = { # 39
+			color={ 94 0 0 }
+			color2={ 255 255 255 }
+			
+			b_lumbridge_barn = {
+			}
+			b_lumbridge_barn_2 = {
+			}
+			b_lumbridge_barn_3 = {
+			}
+		}
+		c_lumbridge_castle = { # 46
+			color={ 62 44 13 }
+			color2={ 255 255 255 }
+			
+			b_lumbridge_castle = {
+			}
+			b_lumbridge_castle_2 = {
+			}
+			b_lumbridge_castle_3 = {
+			}
+		}
+		c_lumbridge_courtyard = { # 45
+			color={ 69 46 6 }
+			color2={ 255 255 255 }
+			
+			b_lumbridge_courtyard = {
+			}
+			b_lumbridge_courtyard_2 = {
+			}
+			b_lumbridge_courtyard_3 = {
+			}
+		}
+		c_lumbridge_furnace = { # 43
+			color={ 63 0 0 }
+			color2={ 255 255 255 }
+			
+			b_lumbridge_furnace = {
+			}
+			b_lumbridge_furnace_2 = {
+			}
+			b_lumbridge_furnace_3 = {
+			}
+		}
+		c_lumbridge_herding_field = { # 42
+			color={ 255 106 208 }
+			color2={ 255 255 255 }
+			
+			b_lumbridge_herding_field = {
+			}
+			b_lumbridge_herding_field_2 = {
+			}
+			b_lumbridge_herding_field_3 = {
+			}
+		}
+		c_lumbridge_path = { # 41
+			color={ 140 0 0 }
+			color2={ 255 255 255 }
+			
+			b_lumbridge_path = {
+			}
+			b_lumbridge_path_2 = {
+			}
+			b_lumbridge_path_3 = {
+			}
+		}
+		c_lumbridge_pub = { # 44
+			color={ 77 0 0 }
+			color2={ 255 255 255 }
+			
+			b_lumbridge_pub = {
+			}
+			b_lumbridge_pub_2 = {
+			}
+			b_lumbridge_pub_3 = {
+			}
+		}
+		c_lumbridge_windmill = { # 40
+			color={ 171 0 0 }
+			color2={ 255 255 255 }
+			
+			b_lumbridge_windmill = {
+			}
+			b_lumbridge_windmill_2 = {
+			}
+			b_lumbridge_windmill_3 = {
+			}
+		}
+		c_mages_house = { # 37
+			color={ 132 1 1 }
+			color2={ 255 255 255 }
+			
+			b_mages_house = {
+			}
+			b_mages_house_2 = {
+			}
+			b_mages_house_3 = {
+			}
+		}
+		c_north_barbarian_path_plain = { # 63
+			color={ 84 205 49 }
+			color2={ 255 255 255 }
+			
+			b_north_barbarian_path_plain = {
+			}
+			b_north_barbarian_path_plain_2 = {
+			}
+			b_north_barbarian_path_plain_3 = {
+			}
+		}
+		c_north_deadwoods = { # 18
+			color={ 195 203 131 }
+			color2={ 255 255 255 }
+			
+			b_north_deadwoods = {
+			}
+			b_north_deadwoods_2 = {
+			}
+			b_north_deadwoods_3 = {
+			}
+		}
+		c_north_draynor_courtyard = { # 24
+			color={ 30 10 10 }
+			color2={ 255 255 255 }
+			
+			b_north_draynor_courtyard = {
+			}
+			b_north_draynor_courtyard_2 = {
+			}
+			b_north_draynor_courtyard_3 = {
+			}
+		}
+		c_north_draynor_village = { # 26
+			color={ 136 44 44 }
+			color2={ 255 255 255 }
+			
+			b_north_draynor_village = {
+			}
+			b_north_draynor_village_2 = {
+			}
+			b_north_draynor_village_3 = {
+			}
+		}
+		c_north_east_barbarian_plains = { # 11
+			color={ 171 101 154 }
+			color2={ 255 255 255 }
+			
+			b_north_east_barbarian_plains = {
+			}
+			b_north_east_barbarian_plains_2 = {
+			}
+			b_north_east_barbarian_plains_3 = {
+			}
+		}
+		c_north_of_draynor_cross = { # 22
+			color={ 69 37 49 }
+			color2={ 255 255 255 }
+			
+			b_north_of_draynor_cross = {
+			}
+			b_north_of_draynor_cross_2 = {
+			}
+			b_north_of_draynor_cross_3 = {
+			}
+		}
+		c_north_varrock_lum_plains = { # 58
+			color={ 24 44 19 }
+			color2={ 255 255 255 }
+			
+			b_north_varrock_lum_plains = {
+			}
+			b_north_varrock_lum_plains_2 = {
+			}
+			b_north_varrock_lum_plains_3 = {
+			}
+		}
+		c_north_west_barbarian_plains = { # 10
+			color={ 150 67 130 }
+			color2={ 255 255 255 }
+			
+			b_north_west_barbarian_plains = {
+			}
+			b_north_west_barbarian_plains_2 = {
+			}
+			b_north_west_barbarian_plains_3 = {
+			}
+		}
+		c_south_barbarian_path_plain = { # 64
+			color={ 14 38 7 }
+			color2={ 255 255 255 }
+			
+			b_south_barbarian_path_plain = {
+			}
+			b_south_barbarian_path_plain_2 = {
+			}
+			b_south_barbarian_path_plain_3 = {
+			}
+		}
+		c_south_barbarian_plains = { # 14
+			color={ 234 188 214 }
+			color2={ 255 255 255 }
+			
+			b_south_barbarian_plains = {
+			}
+			b_south_barbarian_plains_2 = {
+			}
+			b_south_barbarian_plains_3 = {
+			}
+		}
+		c_south_draynor_courtyard = { # 25
+			color={ 23 3 3 }
+			color2={ 255 255 255 }
+			
+			b_south_draynor_courtyard = {
+			}
+			b_south_draynor_courtyard_2 = {
+			}
+			b_south_draynor_courtyard_3 = {
+			}
+		}
+		c_south_draynor_village = { # 27
+			color={ 202 66 66 }
+			color2={ 255 255 255 }
+			
+			b_south_draynor_village = {
+			}
+			b_south_draynor_village_2 = {
+			}
+			b_south_draynor_village_3 = {
+			}
+		}
+		c_south_of_draynor_jail = { # 30
+			color={ 166 171 34 }
+			color2={ 255 255 255 }
+			
+			b_south_of_draynor_jail = {
+			}
+			b_south_of_draynor_jail_2 = {
+			}
+			b_south_of_draynor_jail_3 = {
+			}
+		}
+		c_south_of_the_circle = { # 57
+			color={ 61 92 75 }
+			color2={ 255 255 255 }
+			
+			b_south_of_the_circle = {
+			}
+			b_south_of_the_circle_2 = {
+			}
+			b_south_of_the_circle_3 = {
+			}
+		}
+		c_south_tutorial_plains = { # 38
+			color={ 55 181 0 }
+			color2={ 255 255 255 }
+			
+			b_south_tutorial_plains = {
+			}
+			b_south_tutorial_plains_2 = {
+			}
+			b_south_tutorial_plains_3 = {
+			}
+		}
+		c_south_varrock_guard_watch = { # 72
+			color={ 155 133 64 }
+			color2={ 255 255 255 }
+			
+			b_south_varrock_guard_watch = {
+			}
+			b_south_varrock_guard_watch_2 = {
+			}
+			b_south_varrock_guard_watch_3 = {
+			}
+		}
+		c_south_varrock_lum_plains = { # 59
+			color={ 32 51 19 }
+			color2={ 255 255 255 }
+			
+			b_south_varrock_lum_plains = {
+			}
+			b_south_varrock_lum_plains_2 = {
+			}
+			b_south_varrock_lum_plains_3 = {
+			}
+		}
+		c_south_varrock_pub = { # 73
+			color={ 149 129 61 }
+			color2={ 255 255 255 }
+			
+			b_south_varrock_pub = {
+			}
+			b_south_varrock_pub_2 = {
+			}
+			b_south_varrock_pub_3 = {
+			}
+		}
+		c_stronghold_of_security = { # 15
+			color={ 255 238 251 }
+			color2={ 255 255 255 }
+			
+			b_stronghold_of_security = {
+			}
+			b_stronghold_of_security_2 = {
+			}
+			b_stronghold_of_security_3 = {
+			}
+		}
+		c_the_biting_tree = { # 17
+			color={ 241 255 186 }
+			color2={ 255 255 255 }
+			
+			b_the_biting_tree = {
+			}
+			b_the_biting_tree_2 = {
+			}
+			b_the_biting_tree_3 = {
+			}
+		}
+		c_the_chefs_house = { # 34
+			color={ 213 58 157 }
+			color2={ 255 255 255 }
+			
+			b_the_chefs_house = {
+			}
+			b_the_chefs_house_2 = {
+			}
+			b_the_chefs_house_3 = {
+			}
+		}
+		c_the_guides_house = { # 33
+			color={ 93 0 59 }
+			color2={ 255 255 255 }
+			
+			b_the_guides_house = {
+			}
+			b_the_guides_house_2 = {
+			}
+			b_the_guides_house_3 = {
+			}
+		}
+		c_the_quests_house = { # 35
+			color={ 247 0 157 }
+			color2={ 255 255 255 }
+			
+			b_the_quests_house = {
+			}
+			b_the_quests_house_2 = {
+			}
+			b_the_quests_house_3 = {
+			}
+		}
+		c_varrock_anvils = { # 70
+			color={ 145 125 60 }
+			color2={ 255 255 255 }
+			
+			b_varrock_anvils = {
+			}
+			b_varrock_anvils_2 = {
+			}
+			b_varrock_anvils_3 = {
+			}
+		}
+		c_varrock_apothecary = { # 71
+			color={ 162 139 67 }
+			color2={ 255 255 255 }
+			
+			b_varrock_apothecary = {
+			}
+			b_varrock_apothecary_2 = {
+			}
+			b_varrock_apothecary_3 = {
+			}
+		}
+		c_varrock_chainmail_store = { # 81
+			color={ 203 179 138 }
+			color2={ 255 255 255 }
+			
+			b_varrock_chainmail_store = {
+			}
+			b_varrock_chainmail_store_2 = {
+			}
+			b_varrock_chainmail_store_3 = {
+			}
+		}
+		c_varrock_church = { # 2
+			color={ 89 205 49 }
+			color2={ 255 255 255 }
+			
+			b_varrock_church = {
+			}
+			b_varrock_church_2 = {
+			}
+			b_varrock_church_3 = {
+			}
+		}
+		c_varrock_ditch = { # 3
+			color={ 51 81 41 }
+			color2={ 255 255 255 }
+			
+			b_varrock_ditch = {
+			}
+			b_varrock_ditch_2 = {
+			}
+			b_varrock_ditch_3 = {
+			}
+		}
+		c_varrock_druid_circle = { # 56
+			color={ 39 0 0 }
+			color2={ 255 255 255 }
+			
+			b_varrock_druid_circle = {
+			}
+			b_varrock_druid_circle_2 = {
+			}
+			b_varrock_druid_circle_3 = {
+			}
+		}
+		c_varrock_gated_community = { # 74
+			color={ 181 163 124 }
+			color2={ 255 255 255 }
+			
+			b_varrock_gated_community = {
+			}
+			b_varrock_gated_community_2 = {
+			}
+			b_varrock_gated_community_3 = {
+			}
+		}
+		c_varrock_museum = { # 79
+			color={ 161 147 110 }
+			color2={ 255 255 255 }
+			
+			b_varrock_museum = {
+			}
+			b_varrock_museum_2 = {
+			}
+			b_varrock_museum_3 = {
+			}
+		}
+		c_varrock_path = { # 50
+			color={ 228 113 35 }
+			color2={ 255 255 255 }
+			
+			b_varrock_path = {
+			}
+			b_varrock_path_2 = {
+			}
+			b_varrock_path_3 = {
+			}
+		}
+		c_varrock_path_field = { # 51
+			color={ 196 118 41 }
+			color2={ 255 255 255 }
+			
+			b_varrock_path_field = {
+			}
+			b_varrock_path_field_2 = {
+			}
+			b_varrock_path_field_3 = {
+			}
+		}
+		c_varrock_south_west_mines = { # 55
+			color={ 64 74 61 }
+			color2={ 255 255 255 }
+			
+			b_varrock_south_west_mines = {
+			}
+			b_varrock_south_west_mines_2 = {
+			}
+			b_varrock_south_west_mines_3 = {
+			}
+		}
+		c_varrock_square = { # 80
+			color={ 244 210 166 }
+			color2={ 255 255 255 }
+			
+			b_varrock_square = {
+			}
+			b_varrock_square_2 = {
+			}
+			b_varrock_square_3 = {
+			}
+		}
+		c_west_grand_exchange = { # 6
+			color={ 14 83 5 }
+			color2={ 255 255 255 }
+			
+			b_west_grand_exchange = {
+			}
+			b_west_grand_exchange_2 = {
+			}
+			b_west_grand_exchange_3 = {
+			}
+			b_west_grand_exchange_4 = {
+			}
+			b_west_grand_exchange_5 = {
+			}
+		}
+		c_west_varrock_bank = { # 67
+			color={ 137 132 90 }
+			color2={ 255 255 255 }
+			
+			b_west_varrock_bank = {
+			}
+			b_west_varrock_bank_2 = {
+			}
+			b_west_varrock_bank_3 = {
+			}
+		}
+		c_west_varrock_guard_watch = { # 69
+			color={ 67 76 58 }
+			color2={ 255 255 255 }
+			
+			b_west_varrock_guard_watch = {
+			}
+			b_west_varrock_guard_watch_2 = {
+			}
+			b_west_varrock_guard_watch_3 = {
+			}
+		}
+		c_wizards_bridge = { # 32
+			color={ 114 117 23 }
+			color2={ 255 255 255 }
+			
+			b_wizards_bridge = {
+			}
+			b_wizards_bridge_2 = {
+			}
+			b_wizards_bridge_3 = {
+			}
+		}
+		c_wizards_tower = { # 31
+			color={ 137 142 28 }
+			color2={ 255 255 255 }
+			
+			b_wizards_tower = {
+			}
+			b_wizards_tower_2 = {
+			}
+			b_wizards_tower_3 = {
 			}
 		}
 		d_barbarian_path = {

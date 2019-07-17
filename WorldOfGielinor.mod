@@ -16,14 +16,20 @@ replace_path = "common/landed_titles"
 replace_path = "common/cultures"
 replace_path= "common/bookmarks"
 
+replace_path="common/artifact_spawns"
+replace_path="common/artifacts"
 
-
-
+replace_path="common/objectives"
+replace_path="common/on_actions"
+replace_path="common/bloodlines"
+replace_path="common/dynasties"
+replace_path="common/disease"
 replace_path = "events"
 replace_path = "decisions"
-
+replace_path="common/trade_routes"
 replace_path="common/wonders"
 replace_path="common/wonder_upgrades"
 
 replace_path="decisions"
 replace_path="dlc_metadata"
+replace_path="gfx/flags"

@@ -7,8 +7,6 @@
 	liege=k_misthalin
 }
 
-1066.1.1={holder=1}
+1169.1.1={holder=1000030}
 
-1066.1.1={holder=1}
-
-1066.1.1={holder=1}
+1169.1.1={holder=1000032}
