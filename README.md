@@ -4,7 +4,7 @@ This is a user modification project using the Paradox Game Crusader Kings 2, whi
 Two days ago, that is 2019-07-08, I had no idea how to start a user modification and have now moved my project to GitHub which I admittedly do not know how to use, but that's all in the learning process I assume.
 
 
-Since 15-07-2019, I have been in regular contact with Steam user CourtDoctor and he has been helping with this project in terms of troubleshooting and he made a application to more quickly assign titles to characters. 
+Since 15-07-2019, I have been in regular contact with Steam user CourtDoctor, they have been helping with this project in terms of troubleshooting and made an application to more quickly assign titles to characters. 
 
 The mod is still in its early stages and I am always on the outlook for people experienced in modding or OSRS lore so that we can increase the quality and the speed of the mod to be at a satisfying level. 
 
@@ -70,4 +70,4 @@ To use CK2Tools-v20, you need to have Java 7 installed, but I found that the lat
 You can download that here: https://java.com/en/download/
 
 One of the files in CK2Tools-v20 is called 'config.properties' if you open this in a text based editor, you need to change the moddirectory to CK2 mod folder, that is, in line one you should have written: moddirectory=C:\\Users\\me\\Documents\\Paradox Interactive\\Crusader Kings II\\mod\\WorldOfGielinor
-And in line 2, you need to have the correct directory to your standard ck2 game, for example: intalldir=C:\\Program Files (x86)\\Steam\\steamapps\\common\\Crusader Kings II
+And in line 2, you need to hav correct directory to your standard ck2 game, for example: intalldir=C:\\Program Files (x86)\\Steam\\steamapps\\common\\Crusader Kings II
