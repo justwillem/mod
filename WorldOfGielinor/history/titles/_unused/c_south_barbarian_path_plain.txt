@@ -1,0 +1,10 @@
+# e_gielinor
+500.1.1={
+	law = agnatic_succession
+	law = succ_gavelkind
+}
+800.1.1={
+	liege=k_misthalin
+}
+
+1169.1.1={holder=1000005}

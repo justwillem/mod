@@ -4,11 +4,9 @@
 title = c_varrock_anvils
 
 # Settlements
-max_settlements = 3
+max_settlements = 1
 
 b_varrock_anvils = castle
-#b_varrock_anvils_2 = city
-#b_varrock_anvils_3 = temple
 
 # Misc
 culture = varrockian

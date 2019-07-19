@@ -1,0 +1,15 @@
+# c_lumbridge_cabbage
+
+# County Title
+title = c_lumbridge_cabbage
+
+# Settlements
+max_settlements = 1
+
+b_lumbridge_cabbage = castle
+
+# Misc
+culture = barbarian
+religion = saradominist
+
+#History

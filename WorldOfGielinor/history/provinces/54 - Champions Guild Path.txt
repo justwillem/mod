@@ -4,11 +4,9 @@
 title = c_champions_guild_path
 
 # Settlements
-max_settlements = 3
+max_settlements = 1
 
 b_champions_guild_path = castle
-#b_champions_guild_path_2 = city
-#b_champions_guild_path_3 = temple
 
 # Misc
 culture = varrockian

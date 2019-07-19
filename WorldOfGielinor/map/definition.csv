@@ -77,7 +77,7 @@ province;red;green;blue;x;x
 76;171;154;116;East Varrock Teastall;x
 77;189;170;129;East Varrock Bank;x
 78;214;187;143;East Varrock Path;x
-79;161;147;110;Varrock Museum;x
+79;161;147;110;Varrock Training Dummy House;x
 80;244;210;166;Varrock Square;x
 81;203;179;138;Varrock Chainmail Store;x
 82;12;0;103;North West Wilderness Sea;x
@@ -90,3 +90,10 @@ province;red;green;blue;x;x
 89;71;86;140;Barbarian Lum River;x
 90;67;80;136;Edgeville Lum river;x
 91;27;28;96;Wilderness Lum River;x
+92;155;205;142;West of Champions Guild;x
+93;230;198;154;Square for Public Humiliation;x
+94;153;141;103;Varrock Museum;x
+95;202;119;181;Barbarian Lookout;x
+96;223;234;165;East Barbarian Path;x
+97;255;0;0;Lumbridge Cow Pen;x
+98;209;0;0;Lumbridge Cabbage;x

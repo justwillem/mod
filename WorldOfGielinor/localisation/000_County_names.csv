@@ -1,6 +1,8 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 c_bank_and_chapel;Bank and Chapel;Bank and Chapel;Bank and Chapel;;Bank and Chapel;;;;;;;;;x
 c_bank_and_chapel_adj;Bankian;;Bank and Chapeler;;;;;;;;;;;x
+c_barbarian_lookout;Barbarian Lookout;Barbarian Lookout;Barbarian Lookout;;Barbarian Lookout;;;;;;;;;x
+c_barbarian_lookout_adj;Barbarian Lookoutian;;Barbarian Lookouter;;;;;;;;;;;x
 c_barbarian_passageway;Barbarian Passageway;Barbarian Passageway;Barbarian Passageway;;Barbarian Passageway;;;;;;;;;x
 c_barbarian_passageway_adj;Barbarian Passagewaian;;Barbarian Passagewaer;;;;;;;;;;;x
 c_barbarian_path;Barbarian Path;Barbarian Path;Barbarian Path;;Barbarian Path;;;;;;;;;x
@@ -25,6 +27,8 @@ c_draynor_jail;Draynor Jail;Draynor Jail;Draynor Jail;;Draynor Jail;;;;;;;;;x
 c_draynor_jail_adj;Draynor Jailian;;Draynor Jailer;;;;;;;;;;;x
 c_draynor_manor;Draynor Manor;Draynor Manor;Draynor Manor;;Draynor Manor;;;;;;;;;x
 c_draynor_manor_adj;Draynor Manorian;;Draynor Manorer;;;;;;;;;;;x
+c_east_barbarian_path;East Barbarian Path;East Barbarian Path;East Barbarian Path;;East Barbarian Path;;;;;;;;;x
+c_east_barbarian_path_adj;East Barbarian Pathian;;East Barbarian Pather;;;;;;;;;;;x
 c_east_edgeville;East Edgeville;East Edgeville;East Edgeville;;East Edgeville;;;;;;;;;x
 c_east_edgeville_adj;East Edgevillean;;East Edgeviller;;;;;;;;;;;x
 c_east_grand_exchange;East Grand Exchange;East Grand Exchange;East Grand Exchange;;East Grand Exchange;;;;;;;;;x
@@ -63,10 +67,14 @@ c_lum_watermill;Lum Watermill;Lum Watermill;Lum Watermill;;Lum Watermill;;;;;;;;
 c_lum_watermill_adj;Lum Watermillian;;Lum Watermiller;;;;;;;;;;;x
 c_lumbridge_barn;Lumbridge Barn;Lumbridge Barn;Lumbridge Barn;;Lumbridge Barn;;;;;;;;;x
 c_lumbridge_barn_adj;Lumbridge Barnian;;Lumbridge Barner;;;;;;;;;;;x
+c_lumbridge_cabbage;Lumbridge Cabbage;Lumbridge Cabbage;Lumbridge Cabbage;;Lumbridge Cabbage;;;;;;;;;x
+c_lumbridge_cabbage_adj;Lumbridge Cabbagean;;Lumbridge Cabbager;;;;;;;;;;;x
 c_lumbridge_castle;Lumbridge Castle;Lumbridge Castle;Lumbridge Castle;;Lumbridge Castle;;;;;;;;;x
 c_lumbridge_castle_adj;Lumbridge Castlean;;Lumbridge Castler;;;;;;;;;;;x
 c_lumbridge_courtyard;Lumbridge Courtyard;Lumbridge Courtyard;Lumbridge Courtyard;;Lumbridge Courtyard;;;;;;;;;x
 c_lumbridge_courtyard_adj;Lumbridge Courtyardian;;Lumbridge Courtyarder;;;;;;;;;;;x
+c_lumbridge_cow_pen;Lumbridge Cow Pen;Lumbridge Cow Pen;Lumbridge Cow Pen;;Lumbridge Cow Pen;;;;;;;;;x
+c_lumbridge_cow_pen_adj;Lumbridge Cow Penian;;Lumbridge Cow Pener;;;;;;;;;;;x
 c_lumbridge_furnace;Lumbridge Furnace;Lumbridge Furnace;Lumbridge Furnace;;Lumbridge Furnace;;;;;;;;;x
 c_lumbridge_furnace_adj;Lumbridge Furnacean;;Lumbridge Furnacer;;;;;;;;;;;x
 c_lumbridge_herding_field;Lumbridge Herding Field;Lumbridge Herding Field;Lumbridge Herding Field;;Lumbridge Herding Field;;;;;;;;;x
@@ -115,6 +123,8 @@ c_south_varrock_lum_plains;South Varrock Lum Plains;South Varrock Lum Plains;Sou
 c_south_varrock_lum_plains_adj;South Varrock Lum Plainsian;;South Varrock Lum Plainser;;;;;;;;;;;x
 c_south_varrock_pub;South Varrock Pub;South Varrock Pub;South Varrock Pub;;South Varrock Pub;;;;;;;;;x
 c_south_varrock_pub_adj;South Varrock Pubian;;South Varrock Puber;;;;;;;;;;;x
+c_square_for_public_humiliation;Square for Public Humiliation;Square for Public Humiliation;Square for Public Humiliation;;Square for Public Humiliation;;;;;;;;;x
+c_square_for_public_humiliation_adj;Square for Public Humiliationian;;Square for Public Humiliationer;;;;;;;;;;;x
 c_stronghold_of_security;Stronghold of Security;Stronghold of Security;Stronghold of Security;;Stronghold of Security;;;;;;;;;x
 c_stronghold_of_security_adj;Stronghold of Securitian;;Stronghold of Securiter;;;;;;;;;;;x
 c_the_biting_tree;The Biting Tree;The Biting Tree;The Biting Tree;;The Biting Tree;;;;;;;;;x
@@ -151,8 +161,12 @@ c_varrock_south_west_mines;Varrock South West Mines;Varrock South West Mines;Var
 c_varrock_south_west_mines_adj;Varrock South West Minesian;;Varrock South West Mineser;;;;;;;;;;;x
 c_varrock_square;Varrock Square;Varrock Square;Varrock Square;;Varrock Square;;;;;;;;;x
 c_varrock_square_adj;Varrock Squarean;;Varrock Squarer;;;;;;;;;;;x
+c_varrock_training_dummy_house;Varrock Training Dummy House;Varrock Training Dummy House;Varrock Training Dummy House;;Varrock Training Dummy House;;;;;;;;;x
+c_varrock_training_dummy_house_adj;Varrock Training Dummy Housean;;Varrock Training Dummy Houser;;;;;;;;;;;x
 c_west_grand_exchange;West Grand Exchange;West Grand Exchange;West Grand Exchange;;West Grand Exchange;;;;;;;;;x
 c_west_grand_exchange_adj;West Grand Exchangean;;West Grand Exchanger;;;;;;;;;;;x
+c_west_of_champions_guild;West of Champion's Guild;West of Champion's Guild;West of Champion's Guild;;West of Champion's Guild;;;;;;;;;x
+c_west_of_champions_guild_adj;West of Champions Guildian;;West of Champion's Guilder;;;;;;;;;;;x
 c_west_varrock_bank;West Varrock Bank;West Varrock Bank;West Varrock Bank;;West Varrock Bank;;;;;;;;;x
 c_west_varrock_bank_adj;West Varrock Bankian;;West Varrock Banker;;;;;;;;;;;x
 c_west_varrock_guard_watch;West Varrock Guard Watch;West Varrock Guard Watch;West Varrock Guard Watch;;West Varrock Guard Watch;;;;;;;;;x

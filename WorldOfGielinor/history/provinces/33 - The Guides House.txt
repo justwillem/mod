@@ -4,11 +4,9 @@
 title = c_the_guides_house
 
 # Settlements
-max_settlements = 3
+max_settlements = 1
 
 b_the_guides_house = castle
-#b_the_guides_house_2 = city
-#b_the_guides_house_3 = temple
 
 # Misc
 culture = lummish

@@ -4,11 +4,9 @@
 title = c_north_draynor_courtyard
 
 # Settlements
-max_settlements = 3
+max_settlements = 1
 
 b_north_draynor_courtyard = castle
-#b_north_draynor_courtyard_2 = city
-#b_north_draynor_courtyard_3 = temple
 
 # Misc
 culture = vampire

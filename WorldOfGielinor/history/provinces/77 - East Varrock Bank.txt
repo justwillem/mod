@@ -4,11 +4,9 @@
 title = c_east_varrock_bank
 
 # Settlements
-max_settlements = 3
+max_settlements = 1
 
 b_east_varrock_bank = castle
-#b_east_varrock_bank_2 = city
-#b_east_varrock_bank_3 = temple
 
 # Misc
 culture = varrockian

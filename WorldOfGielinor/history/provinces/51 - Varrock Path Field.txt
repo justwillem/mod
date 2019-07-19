@@ -4,11 +4,9 @@
 title = c_varrock_path_field
 
 # Settlements
-max_settlements = 3
+max_settlements = 1
 
 b_varrock_path_field = castle
-#b_varrock_path_field_2 = city
-#b_varrock_path_field_3 = temple
 
 # Misc
 culture = varrockian

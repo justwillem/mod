@@ -27,6 +27,8 @@ d_grand_exchange;Grand Exchange;Grand Exchange;Grand Exchange;;Grand Exchange;;;
 d_grand_exchange_adj;Grand Exchangean;;Grand Exchanger;;;;;;;;;;;x
 d_lumbridge;Lumbridge;Lumbridge;Lumbridge;;Lumbridge;;;;;;;;;x
 d_lumbridge_adj;Lumbridgean;;lumbridger;;;;;;;;;;;x
+d_lumbridge_cattle;Lumbridge Cattle;Lumbridge Cattle;Lumbridge Cattle;;Lumbridge Cattle;;;;;;;;;x
+d_lumbridge_cattle_adj;Lumbridge Cattlean;;Lumbridge Cattler;;;;;;;;;;;x
 d_lumbridge_path;Lumbridge Path;Lumbridge Path;Lumbridge Path;;Lumbridge Path;;;;;;;;;x
 d_lumbridge_path_adj;Lumbridge Pathian;;Lumbridge Pather;;;;;;;;;;;x
 d_south_varrock_guard_watch;South Varrock Guard Watch;South Varrock Guard Watch;South Varrock Guard Watch;;South Varrock Guard Watch;;;;;;;;;x

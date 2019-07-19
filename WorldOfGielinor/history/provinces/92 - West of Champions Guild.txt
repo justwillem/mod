@@ -1,0 +1,15 @@
+# c_west_of_champions_guild
+
+# County Title
+title = c_west_of_champions_guild
+
+# Settlements
+max_settlements = 1
+
+b_west_of_champions_guild = castle
+
+# Misc
+culture = varrockian
+religion = saradominist
+
+#History

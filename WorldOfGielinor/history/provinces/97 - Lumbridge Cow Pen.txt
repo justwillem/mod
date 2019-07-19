@@ -1,0 +1,15 @@
+# c_lumbridge_cow_pen
+
+# County Title
+title = c_lumbridge_cow_pen
+
+# Settlements
+max_settlements = 1
+
+b_lumbridge_cow_pen = castle
+
+# Misc
+culture = barbarian
+religion = saradominist
+
+#History

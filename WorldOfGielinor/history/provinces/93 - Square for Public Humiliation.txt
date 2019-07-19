@@ -1,0 +1,15 @@
+# c_square_for_public_humiliation
+
+# County Title
+title = c_square_for_public_humiliation
+
+# Settlements
+max_settlements = 1
+
+b_square_for_public_humiliation = castle
+
+# Misc
+culture = varrockian
+religion = saradominist
+
+#History
