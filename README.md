@@ -71,3 +71,11 @@ You can download that here: https://java.com/en/download/
 
 One of the files in CK2Tools-v20 is called 'config.properties' if you open this in a text based editor, you need to change the moddirectory to CK2 mod folder, that is, in line one you should have written: moddirectory=C:\\Users\\me\\Documents\\Paradox Interactive\\Crusader Kings II\\mod\\WorldOfGielinor
 And in line 2, you need to hav correct directory to your standard ck2 game, for example: intalldir=C:\\Program Files (x86)\\Steam\\steamapps\\common\\Crusader Kings II
+
+
+
+
+
+#2019-07-30 Entry
+
+After a breif hiatus I am continuing the work on this mod, and I am using a new strategy to get this mod into a stable state of being. I am going to go through the "A Game of Thrones" CK2 mod, function by function emulating whatever is nessecary, and by then hopefully we will have a stable version. Hopefully my dear my contact, and to some extent collaborator, will help me in the knitty-griddy parts.
